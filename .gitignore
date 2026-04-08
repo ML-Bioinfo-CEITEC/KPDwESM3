@@ -33,5 +33,11 @@ tex/*.blg
 # uv lock (large)
 uv.lock
 
+# Working notes (private)
+notes/
+
+# Old notebooks (private)
+old_codes/
+
 # Editor
 .cursor/
