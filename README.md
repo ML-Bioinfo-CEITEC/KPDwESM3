@@ -96,11 +96,12 @@ Add `--detach` to keep jobs running if your terminal disconnects.
 ## Citation
 
 ```
-@article{marsalkova2026knotted,
-  title={Advancing Knotted Protein Design with {ESM3}},
-  author={Marsalkova, Eva and Simecek, Petr},
-  journal={Machine Learning: Science and Technology},
-  year={2026}
+@inproceedings{simecek2025advancing,
+  title     = {Advancing Knotted Protein Design with ESM3: Guided Generation and Topological Insights},
+  author    = {Simecek, Petr and Marsalkova, Eva},
+  booktitle = {Proceedings of the ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=gYUAJPJeWP}
 }
 ```
 
