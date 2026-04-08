@@ -1,0 +1,18 @@
+[project]
+name = "esm3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "biotite>=1.6.0",
+    "datasets>=4.8.4",
+    "huggingface-hub>=1.9.0",
+    "matplotlib>=3.10.8",
+    "modal>=1.4.1",
+    "numpy>=2.4.4",
+    "pillow>=12.2.0",
+    "scikit-learn>=1.8.0",
+    "topoly>=1.1.0",
+    "umap-learn>=0.5.11",
+]
