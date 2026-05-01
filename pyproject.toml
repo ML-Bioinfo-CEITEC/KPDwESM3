@@ -1,7 +1,7 @@
 [project]
 name = "esm3"
 version = "0.1.0"
-description = "Add your description here"
+description = "Experiments and figures for ESM3-guided knotted protein design"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

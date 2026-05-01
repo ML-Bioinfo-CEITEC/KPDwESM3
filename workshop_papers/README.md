@@ -5,6 +5,4 @@ This folder contains two versions of the paper - it is basically the same result
 * [./knotter_esm4.tex](original version)
 * [./biosecurity.tex](second version written for biosecurity audience)
 
-there are figures in `figures` subfolder
-
-and finally reviews for both papers (not for the final version are in `reviews.txt`)
+there are figures in the `figures` subfolder

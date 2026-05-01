@@ -82,7 +82,7 @@ Add `--detach` to keep jobs running if your terminal disconnects.
 | Masking breaking point | 250 | Mean 84% (±1.2% SE) |
 | RMSD at 50% masking | 80 | 3.24 Å median, knot prob 0.85 |
 | Embedding classifier | 5000 | 97.1% accuracy |
-| Max seq identity to known | 89 | 14.5% (random baseline: 10.4%) |
+| Max seq identity to known | 89 | 14.5% (random baseline: 12.5%) |
 | Unknotted-to-knotted | 99 | 17% (95% CI: 10–26%) |
 
 ## Dataset
