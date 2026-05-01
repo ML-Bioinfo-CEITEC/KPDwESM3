@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "protein_id": "R_A0A833E691",
+      "success": false,
+      "error": "Function input queue was cleared by user."
+    },
+    {
+      "protein_id": "R_W6S0L9",
+      "success": false,
+      "error": "Function input queue was cleared by user."
+    },
+    {
+      "protein_id": "R_A0A2V8XSY0",
+      "success": false,
+      "error": "Function input queue was cleared by user."
+    },
+    {
+      "protein_id": "R_A0A353C6F3",
+      "success": false,
+      "error": "Function input queue was cleared by user."
+    },
+    {
+      "protein_id": "R_A0A0A2TJD1",
+      "success": false,
+      "error": "Function input queue was cleared by user."
+    }
+  ]
+}

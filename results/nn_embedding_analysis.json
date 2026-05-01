@@ -1,0 +1,6 @@
+{
+  "conv_mean_nn_dist": 1610.194,
+  "fail_mean_nn_dist": 1410.21,
+  "mann_whitney_p": 0.9622,
+  "convertible_closer": false
+}

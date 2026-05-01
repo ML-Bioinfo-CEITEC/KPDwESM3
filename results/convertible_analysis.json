@@ -1,0 +1,26 @@
+{
+  "n_success": 17,
+  "n_failure": 82,
+  "success_mean_len": 177.3,
+  "failure_mean_len": 183.1,
+  "success_median_iters": 7.0,
+  "convertible_ids": [
+    "R_A0A4V4LCF3",
+    "R_A0A6V7KIQ1",
+    "R_I3N0L9",
+    "R_A0A072V0N7",
+    "R_A0A382A7X2",
+    "R_A0A3L9I5G0",
+    "R_A0A0R4IXD2",
+    "R_X1ENB0",
+    "R_A0A1B0EZU9",
+    "R_G3S576",
+    "R_A0A4W5NM04",
+    "R_A0A358HZS1",
+    "R_A0A4U2E0U7",
+    "R_J9CSJ6",
+    "R_A0A3D4D8X2",
+    "R_A0A1A9C5G7",
+    "R_A0A0S7JLU7"
+  ]
+}

@@ -1,0 +1,6486 @@
+{
+  "wall_time_s": 7797.9,
+  "n_success": 17,
+  "n_completed": 99,
+  "n_total": 100,
+  "rate_completed": 0.1717,
+  "rate_total": 0.17,
+  "results": [
+    {
+      "protein_id": "R_A0A7L2K6G6",
+      "seq_len": 157,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 453.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3S4K813",
+      "seq_len": 108,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 204.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A376LAK7",
+      "seq_len": 113,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 341.4,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.101
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A4V4LCF3",
+      "seq_len": 120,
+      "success": true,
+      "iterations": 11,
+      "final_score": 0.9398,
+      "time_s": 542.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1183
+        },
+        {
+          "iter": 1,
+          "score": 0.1158
+        },
+        {
+          "iter": 2,
+          "score": 0.2198
+        },
+        {
+          "iter": 3,
+          "score": 0.102
+        },
+        {
+          "iter": 4,
+          "score": 0.1848
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.1515
+        },
+        {
+          "iter": 7,
+          "score": 0.1474
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.9398
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3M9ZJG5",
+      "seq_len": 237,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1134,
+      "time_s": 1096.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1443
+        },
+        {
+          "iter": 1,
+          "score": 0.2165
+        },
+        {
+          "iter": 2,
+          "score": 0.1753
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.17
+        },
+        {
+          "iter": 5,
+          "score": 0.1616
+        },
+        {
+          "iter": 6,
+          "score": 0.1414
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.1443
+        },
+        {
+          "iter": 10,
+          "score": 0.1327
+        },
+        {
+          "iter": 11,
+          "score": 0.1458
+        },
+        {
+          "iter": 12,
+          "score": 0.125
+        },
+        {
+          "iter": 13,
+          "score": 0.102
+        },
+        {
+          "iter": 14,
+          "score": 0.1134
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1G5PIM4",
+      "seq_len": 178,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 743.2,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A382S5N3",
+      "seq_len": 132,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1111,
+      "time_s": 414.2,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1031
+        },
+        {
+          "iter": 4,
+          "score": 0.13
+        },
+        {
+          "iter": 5,
+          "score": 0.15
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.101
+        },
+        {
+          "iter": 8,
+          "score": 0.11
+        },
+        {
+          "iter": 9,
+          "score": 0.1111
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.1429
+        },
+        {
+          "iter": 12,
+          "score": 0.11
+        },
+        {
+          "iter": 13,
+          "score": 0.1237
+        },
+        {
+          "iter": 14,
+          "score": 0.1111
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3Q9FQZ7",
+      "seq_len": 228,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1157.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A4W6FRQ0",
+      "seq_len": 207,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1025.4,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1042
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A6P0WNR3",
+      "seq_len": 225,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.102,
+      "time_s": 798.1,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1122
+        },
+        {
+          "iter": 4,
+          "score": 0.11
+        },
+        {
+          "iter": 5,
+          "score": 0.1212
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.102
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1Z4K776",
+      "seq_len": 200,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1111,
+      "time_s": 738.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1212
+        },
+        {
+          "iter": 1,
+          "score": 0.1237
+        },
+        {
+          "iter": 2,
+          "score": 0.1224
+        },
+        {
+          "iter": 3,
+          "score": 0.1224
+        },
+        {
+          "iter": 4,
+          "score": 0.101
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.1531
+        },
+        {
+          "iter": 7,
+          "score": 0.1146
+        },
+        {
+          "iter": 8,
+          "score": 0.1263
+        },
+        {
+          "iter": 9,
+          "score": 0.101
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.102
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.1111
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1B0DAA9",
+      "seq_len": 131,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 857.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.1313
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.101
+        },
+        {
+          "iter": 11,
+          "score": 0.102
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A6I7T9I3",
+      "seq_len": 228,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 795.7,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A6V7KIQ1",
+      "seq_len": 139,
+      "success": true,
+      "iterations": 9,
+      "final_score": 0.8706,
+      "time_s": 262.4,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1753
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.1313
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1895
+        },
+        {
+          "iter": 6,
+          "score": 0.2165
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.8706
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A524PI23",
+      "success": false,
+      "error": "Task's current input in-01KND25F07601YQ4FCVRJ7WMTM:1775333719067-13 hit its timeout of 2400s",
+      "iterations": 0,
+      "final_score": 0
+    },
+    {
+      "protein_id": "R_A0A5M8NTX3",
+      "seq_len": 211,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1212,
+      "time_s": 778.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1224
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.12
+        },
+        {
+          "iter": 3,
+          "score": 0.1224
+        },
+        {
+          "iter": 4,
+          "score": 0.1515
+        },
+        {
+          "iter": 5,
+          "score": 0.1596
+        },
+        {
+          "iter": 6,
+          "score": 0.1368
+        },
+        {
+          "iter": 7,
+          "score": 0.1224
+        },
+        {
+          "iter": 8,
+          "score": 0.1224
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.1667
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.1212
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A351GFV7",
+      "seq_len": 117,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.3483,
+      "time_s": 361.4,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.3953
+        },
+        {
+          "iter": 1,
+          "score": 0.2527
+        },
+        {
+          "iter": 2,
+          "score": 0.3933
+        },
+        {
+          "iter": 3,
+          "score": 0.3404
+        },
+        {
+          "iter": 4,
+          "score": 0.4149
+        },
+        {
+          "iter": 5,
+          "score": 0.3933
+        },
+        {
+          "iter": 6,
+          "score": 0.3261
+        },
+        {
+          "iter": 7,
+          "score": 0.3723
+        },
+        {
+          "iter": 8,
+          "score": 0.3736
+        },
+        {
+          "iter": 9,
+          "score": 0.3218
+        },
+        {
+          "iter": 10,
+          "score": 0.382
+        },
+        {
+          "iter": 11,
+          "score": 0.3218
+        },
+        {
+          "iter": 12,
+          "score": 0.3258
+        },
+        {
+          "iter": 13,
+          "score": 0.4
+        },
+        {
+          "iter": 14,
+          "score": 0.3483
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A2G5UAH8",
+      "seq_len": 174,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 487.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.1111
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7R9Z525",
+      "seq_len": 176,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 481.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1G8QRL6",
+      "seq_len": 217,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1613,
+      "time_s": 1059.4,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.2021
+        },
+        {
+          "iter": 1,
+          "score": 0.1753
+        },
+        {
+          "iter": 2,
+          "score": 0.2165
+        },
+        {
+          "iter": 3,
+          "score": 0.1111
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1212
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.1224
+        },
+        {
+          "iter": 8,
+          "score": 0.1735
+        },
+        {
+          "iter": 9,
+          "score": 0.1531
+        },
+        {
+          "iter": 10,
+          "score": 0.1134
+        },
+        {
+          "iter": 11,
+          "score": 0.1122
+        },
+        {
+          "iter": 12,
+          "score": 0.11
+        },
+        {
+          "iter": 13,
+          "score": 0.1856
+        },
+        {
+          "iter": 14,
+          "score": 0.1613
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_I3N0L9",
+      "seq_len": 183,
+      "success": true,
+      "iterations": 3,
+      "final_score": 0.9583,
+      "time_s": 141.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.9583
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A844MIU4",
+      "seq_len": 201,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1414,
+      "time_s": 1166.7,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.102
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1212
+        },
+        {
+          "iter": 6,
+          "score": 0.1224
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.1031
+        },
+        {
+          "iter": 10,
+          "score": 0.1134
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.1562
+        },
+        {
+          "iter": 13,
+          "score": 0.1111
+        },
+        {
+          "iter": 14,
+          "score": 0.1414
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7X6UR43",
+      "seq_len": 227,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1134.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3N5FAW5",
+      "seq_len": 210,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1413,
+      "time_s": 1617.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.1413
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_X0W203",
+      "seq_len": 209,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 772.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.13
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1S3K8B4",
+      "seq_len": 135,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 649.1,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1B6L6P5",
+      "seq_len": 170,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 494.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A5C6W5Q1",
+      "seq_len": 214,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1562,
+      "time_s": 789.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1515
+        },
+        {
+          "iter": 1,
+          "score": 0.1837
+        },
+        {
+          "iter": 2,
+          "score": 0.1183
+        },
+        {
+          "iter": 3,
+          "score": 0.1134
+        },
+        {
+          "iter": 4,
+          "score": 0.2553
+        },
+        {
+          "iter": 5,
+          "score": 0.1875
+        },
+        {
+          "iter": 6,
+          "score": 0.2188
+        },
+        {
+          "iter": 7,
+          "score": 0.2333
+        },
+        {
+          "iter": 8,
+          "score": 0.1531
+        },
+        {
+          "iter": 9,
+          "score": 0.2
+        },
+        {
+          "iter": 10,
+          "score": 0.1915
+        },
+        {
+          "iter": 11,
+          "score": 0.1684
+        },
+        {
+          "iter": 12,
+          "score": 0.1758
+        },
+        {
+          "iter": 13,
+          "score": 0.2473
+        },
+        {
+          "iter": 14,
+          "score": 0.1562
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A072V0N7",
+      "seq_len": 223,
+      "success": true,
+      "iterations": 1,
+      "final_score": 1.0,
+      "time_s": 83.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 1.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A382A7X2",
+      "seq_len": 157,
+      "success": true,
+      "iterations": 1,
+      "final_score": 0.9596,
+      "time_s": 59.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.9596
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A844IWR2",
+      "seq_len": 201,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1356.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.11
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.1111
+        },
+        {
+          "iter": 9,
+          "score": 0.1237
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.1134
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A524KB20",
+      "seq_len": 160,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 487.1,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A6L9KN65",
+      "seq_len": 196,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1067.7,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7X6ZIZ7",
+      "seq_len": 149,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 445.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.1146
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A2T1M1G7",
+      "seq_len": 201,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.101,
+      "time_s": 992.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1939
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1633
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.125
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.1146
+        },
+        {
+          "iter": 14,
+          "score": 0.101
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7W1T1X9",
+      "seq_len": 211,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 758.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.1209
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_D2H1L1",
+      "seq_len": 191,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 771.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.102
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3L9I5G0",
+      "seq_len": 89,
+      "success": true,
+      "iterations": 7,
+      "final_score": 0.8105,
+      "time_s": 101.4,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.101
+        },
+        {
+          "iter": 1,
+          "score": 0.2784
+        },
+        {
+          "iter": 2,
+          "score": 0.1212
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.2553
+        },
+        {
+          "iter": 5,
+          "score": 0.1959
+        },
+        {
+          "iter": 6,
+          "score": 0.8105
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3B1C115",
+      "seq_len": 145,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 618.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7Y2ZH46",
+      "seq_len": 170,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 474.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A5J6PQG0",
+      "seq_len": 218,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 788.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1111
+        },
+        {
+          "iter": 1,
+          "score": 0.1146
+        },
+        {
+          "iter": 2,
+          "score": 0.125
+        },
+        {
+          "iter": 3,
+          "score": 0.1368
+        },
+        {
+          "iter": 4,
+          "score": 0.1263
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.1809
+        },
+        {
+          "iter": 7,
+          "score": 0.1196
+        },
+        {
+          "iter": 8,
+          "score": 0.1515
+        },
+        {
+          "iter": 9,
+          "score": 0.1489
+        },
+        {
+          "iter": 10,
+          "score": 0.1053
+        },
+        {
+          "iter": 11,
+          "score": 0.1443
+        },
+        {
+          "iter": 12,
+          "score": 0.1579
+        },
+        {
+          "iter": 13,
+          "score": 0.1809
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A2M7CP31",
+      "seq_len": 150,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1158,
+      "time_s": 1026.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.1237
+        },
+        {
+          "iter": 2,
+          "score": 0.1263
+        },
+        {
+          "iter": 3,
+          "score": 0.1146
+        },
+        {
+          "iter": 4,
+          "score": 0.125
+        },
+        {
+          "iter": 5,
+          "score": 0.1771
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.125
+        },
+        {
+          "iter": 8,
+          "score": 0.2
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.1031
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.1158
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A147HYY0",
+      "seq_len": 240,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 829.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A2V8RR72",
+      "seq_len": 203,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 2316.2,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.101
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1212
+        },
+        {
+          "iter": 6,
+          "score": 0.1
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A831TIM2",
+      "seq_len": 130,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 421.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A5J6NV24",
+      "seq_len": 223,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1162.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.1122
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A4Q3QAS3",
+      "seq_len": 141,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 414.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A832Z9N4",
+      "seq_len": 138,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 804.7,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1I4RZ71",
+      "seq_len": 223,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1313,
+      "time_s": 1203.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.1313
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A0R4IXD2",
+      "seq_len": 196,
+      "success": true,
+      "iterations": 12,
+      "final_score": 0.9625,
+      "time_s": 796.2,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.12
+        },
+        {
+          "iter": 9,
+          "score": 0.2
+        },
+        {
+          "iter": 10,
+          "score": 0.24
+        },
+        {
+          "iter": 11,
+          "score": 0.9625
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_X0YUG3",
+      "seq_len": 133,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 444.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1W7D1G6",
+      "seq_len": 224,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 762.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.1
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A6J4RHT2",
+      "seq_len": 190,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 493.4,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.13
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.101
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_X1ENB0",
+      "seq_len": 101,
+      "success": true,
+      "iterations": 13,
+      "final_score": 0.9149,
+      "time_s": 191.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1313
+        },
+        {
+          "iter": 6,
+          "score": 0.11
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.9149
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A0B6ZG92",
+      "seq_len": 149,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 478.1,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1064
+        },
+        {
+          "iter": 4,
+          "score": 0.1122
+        },
+        {
+          "iter": 5,
+          "score": 0.1717
+        },
+        {
+          "iter": 6,
+          "score": 0.1224
+        },
+        {
+          "iter": 7,
+          "score": 0.1489
+        },
+        {
+          "iter": 8,
+          "score": 0.1531
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.1277
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.1224
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7Y3LFF1",
+      "seq_len": 142,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 776.7,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7J4MVR5",
+      "seq_len": 117,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 497.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A554WX91",
+      "seq_len": 190,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 502.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1B0EZU9",
+      "seq_len": 168,
+      "success": true,
+      "iterations": 14,
+      "final_score": 0.9259,
+      "time_s": 452.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1099
+        },
+        {
+          "iter": 1,
+          "score": 0.1818
+        },
+        {
+          "iter": 2,
+          "score": 0.1196
+        },
+        {
+          "iter": 3,
+          "score": 0.1573
+        },
+        {
+          "iter": 4,
+          "score": 0.2292
+        },
+        {
+          "iter": 5,
+          "score": 0.1522
+        },
+        {
+          "iter": 6,
+          "score": 0.2553
+        },
+        {
+          "iter": 7,
+          "score": 0.1354
+        },
+        {
+          "iter": 8,
+          "score": 0.2045
+        },
+        {
+          "iter": 9,
+          "score": 0.1134
+        },
+        {
+          "iter": 10,
+          "score": 0.1414
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.25
+        },
+        {
+          "iter": 13,
+          "score": 0.9259
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A132HYP8",
+      "seq_len": 212,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1579,
+      "time_s": 1059.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1327
+        },
+        {
+          "iter": 1,
+          "score": 0.1031
+        },
+        {
+          "iter": 2,
+          "score": 0.1354
+        },
+        {
+          "iter": 3,
+          "score": 0.16
+        },
+        {
+          "iter": 4,
+          "score": 0.1122
+        },
+        {
+          "iter": 5,
+          "score": 0.1031
+        },
+        {
+          "iter": 6,
+          "score": 0.1531
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.134
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.1212
+        },
+        {
+          "iter": 11,
+          "score": 0.1443
+        },
+        {
+          "iter": 12,
+          "score": 0.1939
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.1579
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A0P7XBB1",
+      "seq_len": 132,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 627.2,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A6A7G3S3",
+      "seq_len": 228,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 766.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_I3U3E6",
+      "seq_len": 190,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 567.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1556
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1087
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1758
+        },
+        {
+          "iter": 6,
+          "score": 0.1136
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.1236
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_G3S576",
+      "seq_len": 248,
+      "success": true,
+      "iterations": 1,
+      "final_score": 0.8351,
+      "time_s": 83.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.8351
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A817J2J7",
+      "seq_len": 96,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 211.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A2N3XKG5",
+      "seq_len": 221,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1667,
+      "time_s": 1192.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1739
+        },
+        {
+          "iter": 1,
+          "score": 0.101
+        },
+        {
+          "iter": 2,
+          "score": 0.1075
+        },
+        {
+          "iter": 3,
+          "score": 0.1053
+        },
+        {
+          "iter": 4,
+          "score": 0.1313
+        },
+        {
+          "iter": 5,
+          "score": 0.1474
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.1146
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.1053
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.1134
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.1667
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7T4TC08",
+      "seq_len": 193,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1567.7,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A849ZLX9",
+      "seq_len": 234,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 842.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.1134
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A524L7F1",
+      "seq_len": 217,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.125,
+      "time_s": 789.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.1383
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.11
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.125
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7Y7M8Y4",
+      "seq_len": 168,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 880.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7X7KS96",
+      "seq_len": 85,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 224.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.1042
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A383F1A8",
+      "seq_len": 186,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 735.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.1735
+        },
+        {
+          "iter": 2,
+          "score": 0.12
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.1474
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.1053
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.1122
+        },
+        {
+          "iter": 13,
+          "score": 0.134
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7K7WRG1",
+      "seq_len": 172,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 448.1,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.1212
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A553SHF8",
+      "seq_len": 245,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1107.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A2V5M2H5",
+      "seq_len": 220,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 771.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7K4AKW3",
+      "seq_len": 126,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 225.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7X7D1L0",
+      "seq_len": 217,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 2239.1,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A2Z5X4S1",
+      "seq_len": 228,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1579,
+      "time_s": 831.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.134
+        },
+        {
+          "iter": 1,
+          "score": 0.1368
+        },
+        {
+          "iter": 2,
+          "score": 0.1237
+        },
+        {
+          "iter": 3,
+          "score": 0.1354
+        },
+        {
+          "iter": 4,
+          "score": 0.1383
+        },
+        {
+          "iter": 5,
+          "score": 0.1053
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.1368
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.1494
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.2024
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.1579
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7S1R5B5",
+      "seq_len": 155,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 431.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A4W5NM04",
+      "seq_len": 194,
+      "success": true,
+      "iterations": 1,
+      "final_score": 0.8438,
+      "time_s": 51.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.8438
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3B9M970",
+      "seq_len": 185,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 494.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1134
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.1111
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A131ZZ29",
+      "seq_len": 174,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 698.1,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7X2S7U6",
+      "seq_len": 245,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1407.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A358HZS1",
+      "seq_len": 216,
+      "success": true,
+      "iterations": 2,
+      "final_score": 1.0,
+      "time_s": 162.0,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.1413
+        },
+        {
+          "iter": 1,
+          "score": 1.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A7V9HDP0",
+      "seq_len": 154,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 757.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A4U2E0U7",
+      "seq_len": 108,
+      "success": true,
+      "iterations": 11,
+      "final_score": 0.9286,
+      "time_s": 155.1,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.101
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.9286
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A562SCK9",
+      "seq_len": 220,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 734.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.1224
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A847CMW6",
+      "seq_len": 177,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 495.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.1333
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1562
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_J9CSJ6",
+      "seq_len": 198,
+      "success": true,
+      "iterations": 14,
+      "final_score": 0.84,
+      "time_s": 1500.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.2184
+        },
+        {
+          "iter": 1,
+          "score": 0.1031
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.1
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.84
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3D4D8X2",
+      "seq_len": 247,
+      "success": true,
+      "iterations": 11,
+      "final_score": 1.0,
+      "time_s": 641.4,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.12
+        },
+        {
+          "iter": 7,
+          "score": 0.1146
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.4375
+        },
+        {
+          "iter": 10,
+          "score": 1.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A510K7Z0",
+      "seq_len": 130,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 605.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1S8AAG0",
+      "seq_len": 235,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 799.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A4R6LE27",
+      "seq_len": 191,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.2,
+      "time_s": 734.2,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1212
+        },
+        {
+          "iter": 4,
+          "score": 0.129
+        },
+        {
+          "iter": 5,
+          "score": 0.1798
+        },
+        {
+          "iter": 6,
+          "score": 0.2151
+        },
+        {
+          "iter": 7,
+          "score": 0.1515
+        },
+        {
+          "iter": 8,
+          "score": 0.1489
+        },
+        {
+          "iter": 9,
+          "score": 0.1579
+        },
+        {
+          "iter": 10,
+          "score": 0.1158
+        },
+        {
+          "iter": 11,
+          "score": 0.2234
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.1064
+        },
+        {
+          "iter": 14,
+          "score": 0.2
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3Q0QV25",
+      "seq_len": 148,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 456.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.0
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.0
+        },
+        {
+          "iter": 9,
+          "score": 0.0
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.0
+        },
+        {
+          "iter": 13,
+          "score": 0.0
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A3L5TRN2",
+      "seq_len": 186,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.2093,
+      "time_s": 822.8,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.0
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.0
+        },
+        {
+          "iter": 6,
+          "score": 0.1134
+        },
+        {
+          "iter": 7,
+          "score": 0.1224
+        },
+        {
+          "iter": 8,
+          "score": 0.1031
+        },
+        {
+          "iter": 9,
+          "score": 0.1538
+        },
+        {
+          "iter": 10,
+          "score": 0.1087
+        },
+        {
+          "iter": 11,
+          "score": 0.1828
+        },
+        {
+          "iter": 12,
+          "score": 0.2418
+        },
+        {
+          "iter": 13,
+          "score": 0.2805
+        },
+        {
+          "iter": 14,
+          "score": 0.2093
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A526YIW7",
+      "seq_len": 152,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.1856,
+      "time_s": 442.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.13
+        },
+        {
+          "iter": 1,
+          "score": 0.1237
+        },
+        {
+          "iter": 2,
+          "score": 0.1064
+        },
+        {
+          "iter": 3,
+          "score": 0.1939
+        },
+        {
+          "iter": 4,
+          "score": 0.1515
+        },
+        {
+          "iter": 5,
+          "score": 0.2021
+        },
+        {
+          "iter": 6,
+          "score": 0.1771
+        },
+        {
+          "iter": 7,
+          "score": 0.2347
+        },
+        {
+          "iter": 8,
+          "score": 0.1212
+        },
+        {
+          "iter": 9,
+          "score": 0.2268
+        },
+        {
+          "iter": 10,
+          "score": 0.1935
+        },
+        {
+          "iter": 11,
+          "score": 0.234
+        },
+        {
+          "iter": 12,
+          "score": 0.1935
+        },
+        {
+          "iter": 13,
+          "score": 0.1596
+        },
+        {
+          "iter": 14,
+          "score": 0.1856
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A2W4S3U1",
+      "seq_len": 226,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.2551,
+      "time_s": 802.5,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.0
+        },
+        {
+          "iter": 1,
+          "score": 0.1354
+        },
+        {
+          "iter": 2,
+          "score": 0.1224
+        },
+        {
+          "iter": 3,
+          "score": 0.2121
+        },
+        {
+          "iter": 4,
+          "score": 0.1919
+        },
+        {
+          "iter": 5,
+          "score": 0.1429
+        },
+        {
+          "iter": 6,
+          "score": 0.14
+        },
+        {
+          "iter": 7,
+          "score": 0.1414
+        },
+        {
+          "iter": 8,
+          "score": 0.1224
+        },
+        {
+          "iter": 9,
+          "score": 0.1939
+        },
+        {
+          "iter": 10,
+          "score": 0.15
+        },
+        {
+          "iter": 11,
+          "score": 0.1212
+        },
+        {
+          "iter": 12,
+          "score": 0.1616
+        },
+        {
+          "iter": 13,
+          "score": 0.1429
+        },
+        {
+          "iter": 14,
+          "score": 0.2551
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A1A9C5G7",
+      "seq_len": 198,
+      "success": true,
+      "iterations": 1,
+      "final_score": 0.8778,
+      "time_s": 68.3,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.8778
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_L7UB65",
+      "seq_len": 223,
+      "success": false,
+      "iterations": 15,
+      "final_score": 0.0,
+      "time_s": 1027.9,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.102
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.0
+        },
+        {
+          "iter": 3,
+          "score": 0.1224
+        },
+        {
+          "iter": 4,
+          "score": 0.0
+        },
+        {
+          "iter": 5,
+          "score": 0.102
+        },
+        {
+          "iter": 6,
+          "score": 0.1474
+        },
+        {
+          "iter": 7,
+          "score": 0.0
+        },
+        {
+          "iter": 8,
+          "score": 0.1158
+        },
+        {
+          "iter": 9,
+          "score": 0.11
+        },
+        {
+          "iter": 10,
+          "score": 0.0
+        },
+        {
+          "iter": 11,
+          "score": 0.0
+        },
+        {
+          "iter": 12,
+          "score": 0.1122
+        },
+        {
+          "iter": 13,
+          "score": 0.134
+        },
+        {
+          "iter": 14,
+          "score": 0.0
+        }
+      ],
+      "error": null
+    },
+    {
+      "protein_id": "R_A0A0S7JLU7",
+      "seq_len": 229,
+      "success": true,
+      "iterations": 3,
+      "final_score": 0.9468,
+      "time_s": 156.6,
+      "history": [
+        {
+          "iter": 0,
+          "score": 0.22
+        },
+        {
+          "iter": 1,
+          "score": 0.0
+        },
+        {
+          "iter": 2,
+          "score": 0.9468
+        }
+      ],
+      "error": null
+    }
+  ]
+}

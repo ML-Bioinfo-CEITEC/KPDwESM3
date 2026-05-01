@@ -1,0 +1,7070 @@
+{
+  "wall_time_s": 1460.3,
+  "n_valid": 40,
+  "results": [
+    {
+      "protein_id": "R_A0A7X7H5N2",
+      "seq_len": 317,
+      "core_start": 171,
+      "core_end": 238,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.032,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.063,
+          "avg_knotted_p": 0.983,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.095,
+          "avg_knotted_p": 0.9732,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.126,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.158,
+          "avg_knotted_p": 0.9827,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.189,
+          "avg_knotted_p": 0.9917,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.221,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.252,
+          "avg_knotted_p": 0.9633,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.284,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.315,
+          "avg_knotted_p": 0.9827,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.347,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.379,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 130,
+          "norm_position": 0.41,
+          "avg_knotted_p": 0.6131,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.442,
+          "avg_knotted_p": 0.268,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.473,
+          "avg_knotted_p": 0.6372,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.505,
+          "avg_knotted_p": 0.2012,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.536,
+          "avg_knotted_p": 0.2272,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.568,
+          "avg_knotted_p": 0.2531,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.599,
+          "avg_knotted_p": 0.6333,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.631,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.662,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.694,
+          "avg_knotted_p": 0.9814,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.726,
+          "avg_knotted_p": 0.9828,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.757,
+          "avg_knotted_p": 0.9828,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 250,
+          "norm_position": 0.789,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 260,
+          "norm_position": 0.82,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 331.3
+    },
+    {
+      "protein_id": "R_Q08Q32",
+      "seq_len": 334,
+      "core_start": 170,
+      "core_end": 251,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.03,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.06,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.09,
+          "avg_knotted_p": 0.9821,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.12,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.15,
+          "avg_knotted_p": 0.9729,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.18,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.21,
+          "avg_knotted_p": 0.9825,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.24,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.269,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.299,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.329,
+          "avg_knotted_p": 0.9707,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.359,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.389,
+          "avg_knotted_p": 0.3487,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.419,
+          "avg_knotted_p": 0.2359,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.449,
+          "avg_knotted_p": 0.7981,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.479,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.509,
+          "avg_knotted_p": 1.0,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.539,
+          "avg_knotted_p": 1.0,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.569,
+          "avg_knotted_p": 0.9911,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.599,
+          "avg_knotted_p": 1.0,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.629,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.659,
+          "avg_knotted_p": 0.9904,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.689,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.719,
+          "avg_knotted_p": 0.9646,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.749,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.778,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 270,
+          "norm_position": 0.808,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 280,
+          "norm_position": 0.838,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 334.3
+    },
+    {
+      "protein_id": "R_A0A7X7EC76",
+      "seq_len": 166,
+      "core_start": 78,
+      "core_end": 120,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9649,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.06,
+          "avg_knotted_p": 0.9811,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.12,
+          "avg_knotted_p": 0.9833,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.181,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.241,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.301,
+          "avg_knotted_p": 0.9833,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.361,
+          "avg_knotted_p": 0.9566,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.422,
+          "avg_knotted_p": 0.9313,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.482,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.542,
+          "avg_knotted_p": 0.9642,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.602,
+          "avg_knotted_p": 0.9735,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.663,
+          "avg_knotted_p": 0.947,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 133.6
+    },
+    {
+      "protein_id": "R_A0A660VXZ4",
+      "seq_len": 292,
+      "core_start": 213,
+      "core_end": 260,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9815,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.034,
+          "avg_knotted_p": 0.9725,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.068,
+          "avg_knotted_p": 0.9461,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.103,
+          "avg_knotted_p": 0.9451,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.137,
+          "avg_knotted_p": 0.955,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.171,
+          "avg_knotted_p": 0.9729,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.205,
+          "avg_knotted_p": 0.9818,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.24,
+          "avg_knotted_p": 0.9821,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.274,
+          "avg_knotted_p": 0.9515,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.308,
+          "avg_knotted_p": 0.9815,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.342,
+          "avg_knotted_p": 0.9553,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.377,
+          "avg_knotted_p": 0.983,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.411,
+          "avg_knotted_p": 0.9811,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 130,
+          "norm_position": 0.445,
+          "avg_knotted_p": 0.9815,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 140,
+          "norm_position": 0.479,
+          "avg_knotted_p": 0.9635,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 150,
+          "norm_position": 0.514,
+          "avg_knotted_p": 0.9539,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 160,
+          "norm_position": 0.548,
+          "avg_knotted_p": 0.9523,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 170,
+          "norm_position": 0.582,
+          "avg_knotted_p": 0.9721,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.616,
+          "avg_knotted_p": 0.9719,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.651,
+          "avg_knotted_p": 0.7526,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.685,
+          "avg_knotted_p": 0.7583,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.719,
+          "avg_knotted_p": 0.9155,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.753,
+          "avg_knotted_p": 0.9557,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.788,
+          "avg_knotted_p": 0.6655,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.822,
+          "avg_knotted_p": 0.9571,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 310.1
+    },
+    {
+      "protein_id": "R_A0A4D6HAY7",
+      "seq_len": 186,
+      "core_start": 83,
+      "core_end": 128,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9718,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.054,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.108,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.161,
+          "avg_knotted_p": 0.9825,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.215,
+          "avg_knotted_p": 0.9537,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.269,
+          "avg_knotted_p": 0.9738,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.323,
+          "avg_knotted_p": 0.9815,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.376,
+          "avg_knotted_p": 0.9704,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.43,
+          "avg_knotted_p": 0.9815,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.484,
+          "avg_knotted_p": 0.9387,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.538,
+          "avg_knotted_p": 0.9828,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.591,
+          "avg_knotted_p": 0.98,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.645,
+          "avg_knotted_p": 0.947,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.699,
+          "avg_knotted_p": 0.9815,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 146.1
+    },
+    {
+      "protein_id": "R_A0A1I0HZZ7",
+      "seq_len": 244,
+      "core_start": 165,
+      "core_end": 216,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9453,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.041,
+          "avg_knotted_p": 0.914,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.082,
+          "avg_knotted_p": 0.9358,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.123,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.164,
+          "avg_knotted_p": 0.9281,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.205,
+          "avg_knotted_p": 0.9807,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.246,
+          "avg_knotted_p": 0.9461,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.287,
+          "avg_knotted_p": 0.9392,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.328,
+          "avg_knotted_p": 0.905,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.369,
+          "avg_knotted_p": 0.9015,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.41,
+          "avg_knotted_p": 0.8844,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.451,
+          "avg_knotted_p": 0.947,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.492,
+          "avg_knotted_p": 0.9229,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.533,
+          "avg_knotted_p": 0.9168,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.574,
+          "avg_knotted_p": 0.9649,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.615,
+          "avg_knotted_p": 0.8964,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.656,
+          "avg_knotted_p": 0.91,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.697,
+          "avg_knotted_p": 0.9284,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.738,
+          "avg_knotted_p": 0.9288,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.779,
+          "avg_knotted_p": 0.9107,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 246.3
+    },
+    {
+      "protein_id": "R_A0A538M1C7",
+      "seq_len": 349,
+      "core_start": 49,
+      "core_end": 280,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.6252,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.029,
+          "avg_knotted_p": 0.5455,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.057,
+          "avg_knotted_p": 0.6674,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.086,
+          "avg_knotted_p": 0.5763,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.115,
+          "avg_knotted_p": 0.6674,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.143,
+          "avg_knotted_p": 0.5966,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.172,
+          "avg_knotted_p": 0.6687,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.201,
+          "avg_knotted_p": 0.6045,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.229,
+          "avg_knotted_p": 0.6219,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.258,
+          "avg_knotted_p": 0.5942,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.287,
+          "avg_knotted_p": 0.663,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.315,
+          "avg_knotted_p": 0.589,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.344,
+          "avg_knotted_p": 0.5536,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.372,
+          "avg_knotted_p": 0.601,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.401,
+          "avg_knotted_p": 0.6128,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.43,
+          "avg_knotted_p": 0.5766,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.458,
+          "avg_knotted_p": 0.6083,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.487,
+          "avg_knotted_p": 0.5811,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.516,
+          "avg_knotted_p": 0.5771,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.544,
+          "avg_knotted_p": 0.5641,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.573,
+          "avg_knotted_p": 0.618,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.602,
+          "avg_knotted_p": 0.6216,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.63,
+          "avg_knotted_p": 0.5643,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.659,
+          "avg_knotted_p": 0.6108,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.688,
+          "avg_knotted_p": 0.6055,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.716,
+          "avg_knotted_p": 0.5373,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.745,
+          "avg_knotted_p": 0.5714,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.774,
+          "avg_knotted_p": 0.6538,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 280,
+          "norm_position": 0.802,
+          "avg_knotted_p": 0.5686,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 290,
+          "norm_position": 0.831,
+          "avg_knotted_p": 0.6253,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 381.3
+    },
+    {
+      "protein_id": "R_A0A2V2G838",
+      "seq_len": 327,
+      "core_start": 45,
+      "core_end": 285,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8347,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.031,
+          "avg_knotted_p": 0.8659,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.061,
+          "avg_knotted_p": 0.8218,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.092,
+          "avg_knotted_p": 0.8579,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.122,
+          "avg_knotted_p": 0.7802,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.153,
+          "avg_knotted_p": 0.8776,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.183,
+          "avg_knotted_p": 0.8818,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.214,
+          "avg_knotted_p": 0.8738,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.245,
+          "avg_knotted_p": 0.7897,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.275,
+          "avg_knotted_p": 0.8437,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.306,
+          "avg_knotted_p": 0.8725,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.336,
+          "avg_knotted_p": 0.9361,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.367,
+          "avg_knotted_p": 0.8829,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.398,
+          "avg_knotted_p": 0.8351,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.428,
+          "avg_knotted_p": 0.847,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.459,
+          "avg_knotted_p": 0.792,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.489,
+          "avg_knotted_p": 0.8412,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.52,
+          "avg_knotted_p": 0.8271,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.55,
+          "avg_knotted_p": 0.8264,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.581,
+          "avg_knotted_p": 0.8204,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.612,
+          "avg_knotted_p": 0.7485,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.642,
+          "avg_knotted_p": 0.8179,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.673,
+          "avg_knotted_p": 0.8802,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.703,
+          "avg_knotted_p": 0.8722,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.734,
+          "avg_knotted_p": 0.763,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.765,
+          "avg_knotted_p": 0.8733,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.795,
+          "avg_knotted_p": 0.7979,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.826,
+          "avg_knotted_p": 0.8152,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 332.3
+    },
+    {
+      "protein_id": "R_A0A2T2YCB5",
+      "seq_len": 238,
+      "core_start": 161,
+      "core_end": 207,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9725,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.042,
+          "avg_knotted_p": 0.9735,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.084,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.126,
+          "avg_knotted_p": 0.939,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.168,
+          "avg_knotted_p": 0.9458,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.21,
+          "avg_knotted_p": 0.9721,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.252,
+          "avg_knotted_p": 0.9623,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.294,
+          "avg_knotted_p": 0.9738,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.336,
+          "avg_knotted_p": 0.9267,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.378,
+          "avg_knotted_p": 0.9636,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.42,
+          "avg_knotted_p": 0.9728,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.462,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.504,
+          "avg_knotted_p": 0.9437,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.546,
+          "avg_knotted_p": 0.9466,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.588,
+          "avg_knotted_p": 0.9811,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.63,
+          "avg_knotted_p": 0.9533,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.672,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.714,
+          "avg_knotted_p": 0.9434,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.756,
+          "avg_knotted_p": 0.9627,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 211.8
+    },
+    {
+      "protein_id": "R_A0A1B2HHT4",
+      "seq_len": 221,
+      "core_start": 152,
+      "core_end": 192,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.921,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.045,
+          "avg_knotted_p": 0.9833,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.09,
+          "avg_knotted_p": 0.9283,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.136,
+          "avg_knotted_p": 0.943,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.181,
+          "avg_knotted_p": 0.9065,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.226,
+          "avg_knotted_p": 0.9199,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.271,
+          "avg_knotted_p": 0.9282,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.317,
+          "avg_knotted_p": 0.93,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.362,
+          "avg_knotted_p": 0.9715,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.407,
+          "avg_knotted_p": 0.9387,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.452,
+          "avg_knotted_p": 0.9392,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.498,
+          "avg_knotted_p": 0.9632,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.543,
+          "avg_knotted_p": 0.9483,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.588,
+          "avg_knotted_p": 0.9735,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.633,
+          "avg_knotted_p": 0.9423,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.679,
+          "avg_knotted_p": 0.9611,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.724,
+          "avg_knotted_p": 0.91,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.769,
+          "avg_knotted_p": 0.8965,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 213.1
+    },
+    {
+      "protein_id": "R_A0A0A0JWH8",
+      "seq_len": 218,
+      "core_start": 124,
+      "core_end": 167,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.046,
+          "avg_knotted_p": 0.9744,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.092,
+          "avg_knotted_p": 0.9917,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.138,
+          "avg_knotted_p": 0.9744,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.183,
+          "avg_knotted_p": 0.9917,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.229,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.275,
+          "avg_knotted_p": 0.9833,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.321,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.367,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.413,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.459,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.505,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.55,
+          "avg_knotted_p": 0.9828,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.596,
+          "avg_knotted_p": 0.9738,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.642,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.688,
+          "avg_knotted_p": 0.983,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.734,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 186.1
+    },
+    {
+      "protein_id": "R_A0A3A6NA83",
+      "seq_len": 325,
+      "core_start": 50,
+      "core_end": 254,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8781,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.031,
+          "avg_knotted_p": 0.8682,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.062,
+          "avg_knotted_p": 0.8367,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.092,
+          "avg_knotted_p": 0.8627,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.123,
+          "avg_knotted_p": 0.8304,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.154,
+          "avg_knotted_p": 0.8289,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.185,
+          "avg_knotted_p": 0.8639,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.215,
+          "avg_knotted_p": 0.8761,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.246,
+          "avg_knotted_p": 0.8052,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.277,
+          "avg_knotted_p": 0.8647,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.308,
+          "avg_knotted_p": 0.8146,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.338,
+          "avg_knotted_p": 0.854,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.369,
+          "avg_knotted_p": 0.8306,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.4,
+          "avg_knotted_p": 0.8292,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.431,
+          "avg_knotted_p": 0.8044,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.462,
+          "avg_knotted_p": 0.8933,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.492,
+          "avg_knotted_p": 0.8015,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.523,
+          "avg_knotted_p": 0.8404,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.554,
+          "avg_knotted_p": 0.8666,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.585,
+          "avg_knotted_p": 0.8151,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.615,
+          "avg_knotted_p": 0.9004,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.646,
+          "avg_knotted_p": 0.8637,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.677,
+          "avg_knotted_p": 0.7795,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.708,
+          "avg_knotted_p": 0.7945,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.738,
+          "avg_knotted_p": 0.8466,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.769,
+          "avg_knotted_p": 0.8003,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.8,
+          "avg_knotted_p": 0.8895,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 270,
+          "norm_position": 0.831,
+          "avg_knotted_p": 0.8127,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 321.1
+    },
+    {
+      "protein_id": "R_A0A238IVP8",
+      "seq_len": 345,
+      "core_start": 30,
+      "core_end": 263,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8108,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.029,
+          "avg_knotted_p": 0.8796,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.058,
+          "avg_knotted_p": 0.8417,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.087,
+          "avg_knotted_p": 0.8307,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.116,
+          "avg_knotted_p": 0.8824,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.145,
+          "avg_knotted_p": 0.8784,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.174,
+          "avg_knotted_p": 0.8838,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.203,
+          "avg_knotted_p": 0.8842,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.232,
+          "avg_knotted_p": 0.835,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.261,
+          "avg_knotted_p": 0.7983,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.29,
+          "avg_knotted_p": 0.8159,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.319,
+          "avg_knotted_p": 0.9192,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.348,
+          "avg_knotted_p": 0.8133,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.377,
+          "avg_knotted_p": 0.8926,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.406,
+          "avg_knotted_p": 0.8749,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.435,
+          "avg_knotted_p": 0.9001,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.464,
+          "avg_knotted_p": 0.8257,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.493,
+          "avg_knotted_p": 0.8283,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.522,
+          "avg_knotted_p": 0.8162,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.551,
+          "avg_knotted_p": 0.9016,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.58,
+          "avg_knotted_p": 0.8649,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.609,
+          "avg_knotted_p": 0.8552,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.638,
+          "avg_knotted_p": 0.8171,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.667,
+          "avg_knotted_p": 0.8702,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.696,
+          "avg_knotted_p": 0.8206,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.725,
+          "avg_knotted_p": 0.8514,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.754,
+          "avg_knotted_p": 0.8799,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.783,
+          "avg_knotted_p": 0.8718,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 280,
+          "norm_position": 0.812,
+          "avg_knotted_p": 0.8348,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 290,
+          "norm_position": 0.841,
+          "avg_knotted_p": 0.9019,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 368.4
+    },
+    {
+      "protein_id": "R_A0A524ESP5",
+      "seq_len": 219,
+      "core_start": 133,
+      "core_end": 187,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.4654,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.046,
+          "avg_knotted_p": 0.7315,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.091,
+          "avg_knotted_p": 0.3915,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.137,
+          "avg_knotted_p": 0.0603,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.183,
+          "avg_knotted_p": 0.9639,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.228,
+          "avg_knotted_p": 0.9457,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.274,
+          "avg_knotted_p": 0.9539,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.32,
+          "avg_knotted_p": 0.9306,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.365,
+          "avg_knotted_p": 0.9722,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.411,
+          "avg_knotted_p": 0.7662,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.457,
+          "avg_knotted_p": 0.954,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.502,
+          "avg_knotted_p": 0.49,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.548,
+          "avg_knotted_p": 0.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.594,
+          "avg_knotted_p": 0.7152,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.639,
+          "avg_knotted_p": 0.4419,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.685,
+          "avg_knotted_p": 0.9735,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.731,
+          "avg_knotted_p": 0.4821,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 189.3
+    },
+    {
+      "protein_id": "R_A0A5C7A593",
+      "seq_len": 329,
+      "core_start": 108,
+      "core_end": 299,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.4788,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.03,
+          "avg_knotted_p": 0.521,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.061,
+          "avg_knotted_p": 0.5583,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.091,
+          "avg_knotted_p": 0.552,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.122,
+          "avg_knotted_p": 0.3994,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.152,
+          "avg_knotted_p": 0.7551,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.182,
+          "avg_knotted_p": 0.2083,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.213,
+          "avg_knotted_p": 0.4658,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.243,
+          "avg_knotted_p": 0.3223,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.274,
+          "avg_knotted_p": 0.0345,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.304,
+          "avg_knotted_p": 0.0592,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.334,
+          "avg_knotted_p": 0.4489,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.365,
+          "avg_knotted_p": 0.375,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.395,
+          "avg_knotted_p": 0.1549,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.426,
+          "avg_knotted_p": 0.2414,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.456,
+          "avg_knotted_p": 0.5757,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.486,
+          "avg_knotted_p": 0.4411,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.517,
+          "avg_knotted_p": 0.45,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.547,
+          "avg_knotted_p": 0.5096,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.578,
+          "avg_knotted_p": 0.1366,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.608,
+          "avg_knotted_p": 0.6147,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.638,
+          "avg_knotted_p": 0.0848,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.669,
+          "avg_knotted_p": 0.2672,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.699,
+          "avg_knotted_p": 0.1611,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.729,
+          "avg_knotted_p": 0.6071,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.76,
+          "avg_knotted_p": 0.5879,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.79,
+          "avg_knotted_p": 0.4036,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.821,
+          "avg_knotted_p": 0.5266,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 363.9
+    },
+    {
+      "protein_id": "R_L0J1F7",
+      "seq_len": 377,
+      "core_start": 63,
+      "core_end": 310,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8192,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.027,
+          "avg_knotted_p": 0.8498,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.053,
+          "avg_knotted_p": 0.8515,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.08,
+          "avg_knotted_p": 0.863,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.106,
+          "avg_knotted_p": 0.8424,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.133,
+          "avg_knotted_p": 0.8862,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.159,
+          "avg_knotted_p": 0.8676,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.186,
+          "avg_knotted_p": 0.8234,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.212,
+          "avg_knotted_p": 0.8516,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.239,
+          "avg_knotted_p": 0.8218,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.265,
+          "avg_knotted_p": 0.8736,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.292,
+          "avg_knotted_p": 0.9126,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.318,
+          "avg_knotted_p": 0.8383,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.345,
+          "avg_knotted_p": 0.8604,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.371,
+          "avg_knotted_p": 0.908,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.398,
+          "avg_knotted_p": 0.9023,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.424,
+          "avg_knotted_p": 0.7839,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.451,
+          "avg_knotted_p": 0.9123,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.477,
+          "avg_knotted_p": 0.8463,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.504,
+          "avg_knotted_p": 0.8608,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.531,
+          "avg_knotted_p": 0.8632,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.557,
+          "avg_knotted_p": 0.9393,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.584,
+          "avg_knotted_p": 0.8282,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.61,
+          "avg_knotted_p": 0.8643,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.637,
+          "avg_knotted_p": 0.8629,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.663,
+          "avg_knotted_p": 0.8459,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.69,
+          "avg_knotted_p": 0.828,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.716,
+          "avg_knotted_p": 0.8658,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 280,
+          "norm_position": 0.743,
+          "avg_knotted_p": 0.7986,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 290,
+          "norm_position": 0.769,
+          "avg_knotted_p": 0.8008,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 300,
+          "norm_position": 0.796,
+          "avg_knotted_p": 0.8355,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 310,
+          "norm_position": 0.822,
+          "avg_knotted_p": 0.8805,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 320,
+          "norm_position": 0.849,
+          "avg_knotted_p": 0.8001,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 410.6
+    },
+    {
+      "protein_id": "R_C6HX24",
+      "seq_len": 295,
+      "core_start": 26,
+      "core_end": 254,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8767,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.034,
+          "avg_knotted_p": 0.8389,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.068,
+          "avg_knotted_p": 0.8847,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.102,
+          "avg_knotted_p": 0.8956,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.136,
+          "avg_knotted_p": 0.8973,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.169,
+          "avg_knotted_p": 0.8819,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.203,
+          "avg_knotted_p": 0.888,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.237,
+          "avg_knotted_p": 0.9657,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.271,
+          "avg_knotted_p": 0.8718,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.305,
+          "avg_knotted_p": 0.8218,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.339,
+          "avg_knotted_p": 0.8888,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.373,
+          "avg_knotted_p": 0.8523,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.407,
+          "avg_knotted_p": 0.8577,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.441,
+          "avg_knotted_p": 0.8635,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.475,
+          "avg_knotted_p": 0.8494,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.508,
+          "avg_knotted_p": 0.8494,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.542,
+          "avg_knotted_p": 0.8599,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.576,
+          "avg_knotted_p": 0.8143,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.61,
+          "avg_knotted_p": 0.8623,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.644,
+          "avg_knotted_p": 0.908,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.678,
+          "avg_knotted_p": 0.8125,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.712,
+          "avg_knotted_p": 0.8681,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.746,
+          "avg_knotted_p": 0.847,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.78,
+          "avg_knotted_p": 0.8883,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.814,
+          "avg_knotted_p": 0.7864,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 286.2
+    },
+    {
+      "protein_id": "R_A0A820WBB2",
+      "seq_len": 255,
+      "core_start": 37,
+      "core_end": 246,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8941,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.039,
+          "avg_knotted_p": 0.8656,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.078,
+          "avg_knotted_p": 0.9175,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.118,
+          "avg_knotted_p": 0.8495,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.157,
+          "avg_knotted_p": 0.872,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.196,
+          "avg_knotted_p": 0.8446,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.235,
+          "avg_knotted_p": 0.8774,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.275,
+          "avg_knotted_p": 0.9351,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.314,
+          "avg_knotted_p": 0.8577,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.353,
+          "avg_knotted_p": 0.9024,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.392,
+          "avg_knotted_p": 0.9303,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.431,
+          "avg_knotted_p": 0.8601,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.471,
+          "avg_knotted_p": 0.9206,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.51,
+          "avg_knotted_p": 0.9039,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.549,
+          "avg_knotted_p": 0.9488,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.588,
+          "avg_knotted_p": 0.8563,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.627,
+          "avg_knotted_p": 0.9365,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.667,
+          "avg_knotted_p": 0.9002,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.706,
+          "avg_knotted_p": 0.5539,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.745,
+          "avg_knotted_p": 0.9219,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.784,
+          "avg_knotted_p": 0.654,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 245.5
+    },
+    {
+      "protein_id": "R_A0A150UYQ4",
+      "seq_len": 344,
+      "core_start": 6,
+      "core_end": 253,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.4898,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.029,
+          "avg_knotted_p": 0.7787,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.058,
+          "avg_knotted_p": 0.8498,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.087,
+          "avg_knotted_p": 0.5865,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.116,
+          "avg_knotted_p": 0.8336,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.145,
+          "avg_knotted_p": 0.5984,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.174,
+          "avg_knotted_p": 0.7956,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.203,
+          "avg_knotted_p": 0.9245,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.233,
+          "avg_knotted_p": 0.7452,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.262,
+          "avg_knotted_p": 0.7789,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.291,
+          "avg_knotted_p": 0.7916,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.32,
+          "avg_knotted_p": 0.8318,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.349,
+          "avg_knotted_p": 0.8087,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.378,
+          "avg_knotted_p": 0.8102,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.407,
+          "avg_knotted_p": 0.719,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.436,
+          "avg_knotted_p": 0.8057,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.465,
+          "avg_knotted_p": 0.8679,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.494,
+          "avg_knotted_p": 0.8321,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.523,
+          "avg_knotted_p": 0.6761,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.552,
+          "avg_knotted_p": 0.8524,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.581,
+          "avg_knotted_p": 0.6241,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.61,
+          "avg_knotted_p": 0.6386,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.64,
+          "avg_knotted_p": 0.6445,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.669,
+          "avg_knotted_p": 0.888,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.698,
+          "avg_knotted_p": 0.7964,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.727,
+          "avg_knotted_p": 0.7952,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.756,
+          "avg_knotted_p": 0.8732,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 270,
+          "norm_position": 0.785,
+          "avg_knotted_p": 0.8592,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 280,
+          "norm_position": 0.814,
+          "avg_knotted_p": 0.8262,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 290,
+          "norm_position": 0.843,
+          "avg_knotted_p": 0.7943,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 337.9
+    },
+    {
+      "protein_id": "R_A0A1Y2PC98",
+      "seq_len": 311,
+      "core_start": 170,
+      "core_end": 237,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.032,
+          "avg_knotted_p": 0.9828,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.064,
+          "avg_knotted_p": 0.9821,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.096,
+          "avg_knotted_p": 0.9824,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.129,
+          "avg_knotted_p": 0.9917,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.161,
+          "avg_knotted_p": 0.9917,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.193,
+          "avg_knotted_p": 0.9735,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.225,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.257,
+          "avg_knotted_p": 0.9833,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.289,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.322,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.354,
+          "avg_knotted_p": 0.9821,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.386,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.418,
+          "avg_knotted_p": 0.1724,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.45,
+          "avg_knotted_p": 0.6379,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.482,
+          "avg_knotted_p": 0.5833,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.514,
+          "avg_knotted_p": 0.3562,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.547,
+          "avg_knotted_p": 0.2958,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.579,
+          "avg_knotted_p": 0.9821,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.611,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.643,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.675,
+          "avg_knotted_p": 0.8414,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.707,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.74,
+          "avg_knotted_p": 0.9917,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.772,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 250,
+          "norm_position": 0.804,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 260,
+          "norm_position": 0.836,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 327.4
+    },
+    {
+      "protein_id": "R_A0A2W1L2K8",
+      "seq_len": 262,
+      "core_start": 86,
+      "core_end": 131,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.983,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.038,
+          "avg_knotted_p": 0.9821,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.076,
+          "avg_knotted_p": 0.9904,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.115,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.153,
+          "avg_knotted_p": 0.9824,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.191,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.229,
+          "avg_knotted_p": 0.9827,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.267,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.305,
+          "avg_knotted_p": 0.9917,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.344,
+          "avg_knotted_p": 0.9655,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.382,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.42,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.458,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.496,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.534,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 150,
+          "norm_position": 0.573,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 160,
+          "norm_position": 0.611,
+          "avg_knotted_p": 0.9825,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 170,
+          "norm_position": 0.649,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 180,
+          "norm_position": 0.687,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 190,
+          "norm_position": 0.725,
+          "avg_knotted_p": 0.9911,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 200,
+          "norm_position": 0.763,
+          "avg_knotted_p": 1.0,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 210,
+          "norm_position": 0.802,
+          "avg_knotted_p": 0.9828,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 283.8
+    },
+    {
+      "protein_id": "R_A0A1F9GI47",
+      "seq_len": 140,
+      "core_start": 56,
+      "core_end": 106,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9084,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.071,
+          "avg_knotted_p": 0.9523,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.143,
+          "avg_knotted_p": 0.9521,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.214,
+          "avg_knotted_p": 0.9543,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.286,
+          "avg_knotted_p": 0.9059,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.357,
+          "avg_knotted_p": 0.8756,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.429,
+          "avg_knotted_p": 0.8566,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.5,
+          "avg_knotted_p": 0.9719,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.571,
+          "avg_knotted_p": 0.9623,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.643,
+          "avg_knotted_p": 0.8799,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 107.4
+    },
+    {
+      "protein_id": "R_A0A7V9T1L9",
+      "seq_len": 338,
+      "core_start": 36,
+      "core_end": 262,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.6234,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.03,
+          "avg_knotted_p": 0.736,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.059,
+          "avg_knotted_p": 0.6367,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.089,
+          "avg_knotted_p": 0.7258,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.118,
+          "avg_knotted_p": 0.5843,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.148,
+          "avg_knotted_p": 0.6774,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.178,
+          "avg_knotted_p": 0.6358,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.207,
+          "avg_knotted_p": 0.6225,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.237,
+          "avg_knotted_p": 0.6917,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.266,
+          "avg_knotted_p": 0.6635,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.296,
+          "avg_knotted_p": 0.7024,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.325,
+          "avg_knotted_p": 0.5311,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.355,
+          "avg_knotted_p": 0.5778,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.385,
+          "avg_knotted_p": 0.7262,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.414,
+          "avg_knotted_p": 0.6903,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.444,
+          "avg_knotted_p": 0.6575,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.473,
+          "avg_knotted_p": 0.5905,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.503,
+          "avg_knotted_p": 0.6748,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.533,
+          "avg_knotted_p": 0.7349,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.562,
+          "avg_knotted_p": 0.646,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.592,
+          "avg_knotted_p": 0.6327,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.621,
+          "avg_knotted_p": 0.6328,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.651,
+          "avg_knotted_p": 0.6251,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.68,
+          "avg_knotted_p": 0.7174,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.71,
+          "avg_knotted_p": 0.6872,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.74,
+          "avg_knotted_p": 0.7438,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.769,
+          "avg_knotted_p": 0.6527,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.799,
+          "avg_knotted_p": 0.5998,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 280,
+          "norm_position": 0.828,
+          "avg_knotted_p": 0.6773,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 347.3
+    },
+    {
+      "protein_id": "R_A0A535R7T6",
+      "seq_len": 347,
+      "core_start": 43,
+      "core_end": 280,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.5596,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.029,
+          "avg_knotted_p": 0.701,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.058,
+          "avg_knotted_p": 0.5812,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.086,
+          "avg_knotted_p": 0.5895,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.115,
+          "avg_knotted_p": 0.6086,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.144,
+          "avg_knotted_p": 0.6014,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.173,
+          "avg_knotted_p": 0.6269,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.202,
+          "avg_knotted_p": 0.5572,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.231,
+          "avg_knotted_p": 0.6211,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.259,
+          "avg_knotted_p": 0.5271,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.288,
+          "avg_knotted_p": 0.5533,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.317,
+          "avg_knotted_p": 0.5911,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.346,
+          "avg_knotted_p": 0.6063,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.375,
+          "avg_knotted_p": 0.6111,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.403,
+          "avg_knotted_p": 0.6225,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.432,
+          "avg_knotted_p": 0.661,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.461,
+          "avg_knotted_p": 0.52,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.49,
+          "avg_knotted_p": 0.5728,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.519,
+          "avg_knotted_p": 0.5788,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.548,
+          "avg_knotted_p": 0.5626,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.576,
+          "avg_knotted_p": 0.6327,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.605,
+          "avg_knotted_p": 0.6183,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.634,
+          "avg_knotted_p": 0.5665,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.663,
+          "avg_knotted_p": 0.5544,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.692,
+          "avg_knotted_p": 0.5859,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.72,
+          "avg_knotted_p": 0.6744,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.749,
+          "avg_knotted_p": 0.5736,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.778,
+          "avg_knotted_p": 0.5159,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 280,
+          "norm_position": 0.807,
+          "avg_knotted_p": 0.5952,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 290,
+          "norm_position": 0.836,
+          "avg_knotted_p": 0.6642,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 376.2
+    },
+    {
+      "protein_id": "R_X2JLJ8",
+      "seq_len": 384,
+      "core_start": 12,
+      "core_end": 263,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.7791,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.026,
+          "avg_knotted_p": 0.7433,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.052,
+          "avg_knotted_p": 0.7952,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.078,
+          "avg_knotted_p": 0.8242,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.104,
+          "avg_knotted_p": 0.7699,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.13,
+          "avg_knotted_p": 0.7836,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.156,
+          "avg_knotted_p": 0.8047,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.182,
+          "avg_knotted_p": 0.8104,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.208,
+          "avg_knotted_p": 0.7402,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.234,
+          "avg_knotted_p": 0.7554,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.26,
+          "avg_knotted_p": 0.7976,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.286,
+          "avg_knotted_p": 0.7851,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.312,
+          "avg_knotted_p": 0.7377,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.339,
+          "avg_knotted_p": 0.8281,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.365,
+          "avg_knotted_p": 0.6838,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.391,
+          "avg_knotted_p": 0.7804,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.417,
+          "avg_knotted_p": 0.8119,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.443,
+          "avg_knotted_p": 0.8222,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.469,
+          "avg_knotted_p": 0.7648,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.495,
+          "avg_knotted_p": 0.8152,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.521,
+          "avg_knotted_p": 0.7354,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.547,
+          "avg_knotted_p": 0.7851,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.573,
+          "avg_knotted_p": 0.7927,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.599,
+          "avg_knotted_p": 0.7371,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.625,
+          "avg_knotted_p": 0.8229,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.651,
+          "avg_knotted_p": 0.7108,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.677,
+          "avg_knotted_p": 0.7692,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.703,
+          "avg_knotted_p": 0.8312,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 280,
+          "norm_position": 0.729,
+          "avg_knotted_p": 0.7307,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 290,
+          "norm_position": 0.755,
+          "avg_knotted_p": 0.7896,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 300,
+          "norm_position": 0.781,
+          "avg_knotted_p": 0.7376,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 310,
+          "norm_position": 0.807,
+          "avg_knotted_p": 0.7754,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 320,
+          "norm_position": 0.833,
+          "avg_knotted_p": 0.8076,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 330,
+          "norm_position": 0.859,
+          "avg_knotted_p": 0.8075,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 459.6
+    },
+    {
+      "protein_id": "R_A0A6B9T956",
+      "seq_len": 197,
+      "core_start": 129,
+      "core_end": 174,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9334,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.051,
+          "avg_knotted_p": 0.9175,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.102,
+          "avg_knotted_p": 0.9073,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.152,
+          "avg_knotted_p": 0.9092,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.203,
+          "avg_knotted_p": 0.8837,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.254,
+          "avg_knotted_p": 0.8789,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.305,
+          "avg_knotted_p": 0.8902,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.355,
+          "avg_knotted_p": 0.8512,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.406,
+          "avg_knotted_p": 0.887,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.457,
+          "avg_knotted_p": 0.8775,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.508,
+          "avg_knotted_p": 0.8968,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.558,
+          "avg_knotted_p": 0.9238,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.609,
+          "avg_knotted_p": 0.8679,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.66,
+          "avg_knotted_p": 0.8785,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.711,
+          "avg_knotted_p": 0.9123,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 175.4
+    },
+    {
+      "protein_id": "R_A0A1I8EGQ5",
+      "seq_len": 302,
+      "core_start": 43,
+      "core_end": 264,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9833,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.033,
+          "avg_knotted_p": 0.983,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.066,
+          "avg_knotted_p": 0.9309,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.099,
+          "avg_knotted_p": 0.9726,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.132,
+          "avg_knotted_p": 0.9294,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.166,
+          "avg_knotted_p": 0.9396,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.199,
+          "avg_knotted_p": 0.9655,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.232,
+          "avg_knotted_p": 0.9288,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.265,
+          "avg_knotted_p": 0.9639,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.298,
+          "avg_knotted_p": 0.9233,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.331,
+          "avg_knotted_p": 0.9664,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.364,
+          "avg_knotted_p": 0.9563,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.397,
+          "avg_knotted_p": 0.9747,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.43,
+          "avg_knotted_p": 0.9744,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.464,
+          "avg_knotted_p": 0.9479,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.497,
+          "avg_knotted_p": 0.9646,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.53,
+          "avg_knotted_p": 0.9738,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.563,
+          "avg_knotted_p": 0.9026,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.596,
+          "avg_knotted_p": 0.9375,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.629,
+          "avg_knotted_p": 0.9655,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.662,
+          "avg_knotted_p": 0.9821,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.695,
+          "avg_knotted_p": 0.9402,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.728,
+          "avg_knotted_p": 0.9655,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.762,
+          "avg_knotted_p": 0.9489,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.795,
+          "avg_knotted_p": 0.6807,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.828,
+          "avg_knotted_p": 0.9643,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 302.1
+    },
+    {
+      "protein_id": "R_S2E547",
+      "seq_len": 305,
+      "core_start": 20,
+      "core_end": 232,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8637,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.033,
+          "avg_knotted_p": 0.8161,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.066,
+          "avg_knotted_p": 0.8555,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.098,
+          "avg_knotted_p": 0.9206,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.131,
+          "avg_knotted_p": 0.8397,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.164,
+          "avg_knotted_p": 0.8204,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.197,
+          "avg_knotted_p": 0.8121,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.23,
+          "avg_knotted_p": 0.8417,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.262,
+          "avg_knotted_p": 0.8984,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.295,
+          "avg_knotted_p": 0.8546,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.328,
+          "avg_knotted_p": 0.8887,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.361,
+          "avg_knotted_p": 0.8623,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.393,
+          "avg_knotted_p": 0.8017,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.426,
+          "avg_knotted_p": 0.8442,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.459,
+          "avg_knotted_p": 0.8586,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.492,
+          "avg_knotted_p": 0.8215,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.525,
+          "avg_knotted_p": 0.8439,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.557,
+          "avg_knotted_p": 0.8037,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.59,
+          "avg_knotted_p": 0.911,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.623,
+          "avg_knotted_p": 0.8899,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.656,
+          "avg_knotted_p": 0.8202,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.689,
+          "avg_knotted_p": 0.869,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.721,
+          "avg_knotted_p": 0.8029,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.754,
+          "avg_knotted_p": 0.8519,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.787,
+          "avg_knotted_p": 0.8395,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 250,
+          "norm_position": 0.82,
+          "avg_knotted_p": 0.8014,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 301.3
+    },
+    {
+      "protein_id": "R_A0A0D2VMJ0",
+      "seq_len": 228,
+      "core_start": 156,
+      "core_end": 201,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9213,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.044,
+          "avg_knotted_p": 0.9266,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.088,
+          "avg_knotted_p": 0.9011,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.132,
+          "avg_knotted_p": 0.9103,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.175,
+          "avg_knotted_p": 0.8872,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.219,
+          "avg_knotted_p": 0.8675,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.263,
+          "avg_knotted_p": 0.9039,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.307,
+          "avg_knotted_p": 0.9134,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.351,
+          "avg_knotted_p": 0.9447,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.395,
+          "avg_knotted_p": 0.9384,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.439,
+          "avg_knotted_p": 0.9572,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.482,
+          "avg_knotted_p": 0.9268,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.526,
+          "avg_knotted_p": 0.9298,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.57,
+          "avg_knotted_p": 0.9274,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.614,
+          "avg_knotted_p": 0.8998,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.658,
+          "avg_knotted_p": 0.9387,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.702,
+          "avg_knotted_p": 0.937,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.746,
+          "avg_knotted_p": 0.9313,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 219.9
+    },
+    {
+      "protein_id": "R_A0A847AYC9",
+      "seq_len": 263,
+      "core_start": 191,
+      "core_end": 230,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9547,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.038,
+          "avg_knotted_p": 0.9269,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.076,
+          "avg_knotted_p": 0.9322,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.114,
+          "avg_knotted_p": 0.9741,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.152,
+          "avg_knotted_p": 0.9637,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.19,
+          "avg_knotted_p": 0.9533,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.228,
+          "avg_knotted_p": 0.9626,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.266,
+          "avg_knotted_p": 0.9402,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.304,
+          "avg_knotted_p": 0.9646,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.342,
+          "avg_knotted_p": 0.9345,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.38,
+          "avg_knotted_p": 0.9728,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.418,
+          "avg_knotted_p": 0.9636,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.456,
+          "avg_knotted_p": 0.9636,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 130,
+          "norm_position": 0.494,
+          "avg_knotted_p": 0.9818,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 140,
+          "norm_position": 0.532,
+          "avg_knotted_p": 0.9707,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 150,
+          "norm_position": 0.57,
+          "avg_knotted_p": 0.9815,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.608,
+          "avg_knotted_p": 0.9642,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.646,
+          "avg_knotted_p": 0.9618,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.684,
+          "avg_knotted_p": 0.9729,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.722,
+          "avg_knotted_p": 0.9744,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.76,
+          "avg_knotted_p": 0.9477,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.798,
+          "avg_knotted_p": 0.9135,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 294.5
+    },
+    {
+      "protein_id": "R_A0A1N6HA57",
+      "seq_len": 394,
+      "core_start": 14,
+      "core_end": 264,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8109,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.025,
+          "avg_knotted_p": 0.7478,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.051,
+          "avg_knotted_p": 0.8311,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.076,
+          "avg_knotted_p": 0.809,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.102,
+          "avg_knotted_p": 0.7704,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.127,
+          "avg_knotted_p": 0.6953,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.152,
+          "avg_knotted_p": 0.8368,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.178,
+          "avg_knotted_p": 0.831,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.203,
+          "avg_knotted_p": 0.7099,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.228,
+          "avg_knotted_p": 0.8036,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.254,
+          "avg_knotted_p": 0.8001,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.279,
+          "avg_knotted_p": 0.7435,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.305,
+          "avg_knotted_p": 0.8699,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.33,
+          "avg_knotted_p": 0.7664,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.355,
+          "avg_knotted_p": 0.7722,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.381,
+          "avg_knotted_p": 0.7898,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.406,
+          "avg_knotted_p": 0.7443,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.431,
+          "avg_knotted_p": 0.8091,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.457,
+          "avg_knotted_p": 0.7682,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.482,
+          "avg_knotted_p": 0.7557,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.508,
+          "avg_knotted_p": 0.7872,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.533,
+          "avg_knotted_p": 0.7431,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.558,
+          "avg_knotted_p": 0.8248,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.584,
+          "avg_knotted_p": 0.7877,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.609,
+          "avg_knotted_p": 0.8279,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.635,
+          "avg_knotted_p": 0.8388,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.66,
+          "avg_knotted_p": 0.7978,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.685,
+          "avg_knotted_p": 0.7748,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 280,
+          "norm_position": 0.711,
+          "avg_knotted_p": 0.6966,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 290,
+          "norm_position": 0.736,
+          "avg_knotted_p": 0.7616,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 300,
+          "norm_position": 0.761,
+          "avg_knotted_p": 0.7973,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 310,
+          "norm_position": 0.787,
+          "avg_knotted_p": 0.7999,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 320,
+          "norm_position": 0.812,
+          "avg_knotted_p": 0.7163,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 330,
+          "norm_position": 0.838,
+          "avg_knotted_p": 0.7915,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 340,
+          "norm_position": 0.863,
+          "avg_knotted_p": 0.9304,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 479.2
+    },
+    {
+      "protein_id": "R_A0A820QCG4",
+      "seq_len": 255,
+      "core_start": 33,
+      "core_end": 247,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.7821,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.039,
+          "avg_knotted_p": 0.6815,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.078,
+          "avg_knotted_p": 0.663,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.118,
+          "avg_knotted_p": 0.8191,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.157,
+          "avg_knotted_p": 0.7533,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.196,
+          "avg_knotted_p": 0.8044,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.235,
+          "avg_knotted_p": 0.8126,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.275,
+          "avg_knotted_p": 0.7845,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.314,
+          "avg_knotted_p": 0.8089,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.353,
+          "avg_knotted_p": 0.8637,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.392,
+          "avg_knotted_p": 0.7321,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.431,
+          "avg_knotted_p": 0.8359,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.471,
+          "avg_knotted_p": 0.8333,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.51,
+          "avg_knotted_p": 0.8558,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.549,
+          "avg_knotted_p": 0.8469,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.588,
+          "avg_knotted_p": 0.8172,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.627,
+          "avg_knotted_p": 0.7661,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.667,
+          "avg_knotted_p": 0.8387,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.706,
+          "avg_knotted_p": 0.7985,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.745,
+          "avg_knotted_p": 0.7267,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.784,
+          "avg_knotted_p": 0.7716,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 239.1
+    },
+    {
+      "protein_id": "R_A0A2D4P3A3",
+      "seq_len": 143,
+      "core_start": 29,
+      "core_end": 77,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9735,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.07,
+          "avg_knotted_p": 0.7325,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.14,
+          "avg_knotted_p": 0.9649,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.21,
+          "avg_knotted_p": 0.9557,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.28,
+          "avg_knotted_p": 0.9815,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.35,
+          "avg_knotted_p": 0.0,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.42,
+          "avg_knotted_p": 0.9914,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.49,
+          "avg_knotted_p": 0.9833,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.559,
+          "avg_knotted_p": 0.9907,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.629,
+          "avg_knotted_p": 0.9652,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 114.1
+    },
+    {
+      "protein_id": "R_A0A2Y9BUR7",
+      "seq_len": 370,
+      "core_start": 61,
+      "core_end": 304,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.8555,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.027,
+          "avg_knotted_p": 0.83,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.054,
+          "avg_knotted_p": 0.8445,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.081,
+          "avg_knotted_p": 0.8359,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.108,
+          "avg_knotted_p": 0.7505,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.135,
+          "avg_knotted_p": 0.815,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.162,
+          "avg_knotted_p": 0.8017,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.189,
+          "avg_knotted_p": 0.8293,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.216,
+          "avg_knotted_p": 0.7961,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.243,
+          "avg_knotted_p": 0.8403,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.27,
+          "avg_knotted_p": 0.8441,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.297,
+          "avg_knotted_p": 0.8333,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.324,
+          "avg_knotted_p": 0.8335,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.351,
+          "avg_knotted_p": 0.8607,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.378,
+          "avg_knotted_p": 0.7613,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.405,
+          "avg_knotted_p": 0.833,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.432,
+          "avg_knotted_p": 0.8613,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.459,
+          "avg_knotted_p": 0.7952,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.486,
+          "avg_knotted_p": 0.786,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.514,
+          "avg_knotted_p": 0.7517,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.541,
+          "avg_knotted_p": 0.8078,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.568,
+          "avg_knotted_p": 0.8143,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.595,
+          "avg_knotted_p": 0.8398,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.622,
+          "avg_knotted_p": 0.8451,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.649,
+          "avg_knotted_p": 0.9358,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.676,
+          "avg_knotted_p": 0.7893,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.703,
+          "avg_knotted_p": 0.8368,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.73,
+          "avg_knotted_p": 0.7783,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 280,
+          "norm_position": 0.757,
+          "avg_knotted_p": 0.7955,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 290,
+          "norm_position": 0.784,
+          "avg_knotted_p": 0.8019,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 300,
+          "norm_position": 0.811,
+          "avg_knotted_p": 0.7609,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 310,
+          "norm_position": 0.838,
+          "avg_knotted_p": 0.7882,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 320,
+          "norm_position": 0.865,
+          "avg_knotted_p": 0.8123,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 401.6
+    },
+    {
+      "protein_id": "R_A0A226H2H8",
+      "seq_len": 358,
+      "core_start": 51,
+      "core_end": 292,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.6597,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.028,
+          "avg_knotted_p": 0.6556,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.056,
+          "avg_knotted_p": 0.6241,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.084,
+          "avg_knotted_p": 0.7202,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.112,
+          "avg_knotted_p": 0.6969,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.14,
+          "avg_knotted_p": 0.6577,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.168,
+          "avg_knotted_p": 0.6294,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.196,
+          "avg_knotted_p": 0.691,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.223,
+          "avg_knotted_p": 0.6878,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.251,
+          "avg_knotted_p": 0.6359,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.279,
+          "avg_knotted_p": 0.6774,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.307,
+          "avg_knotted_p": 0.7414,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.335,
+          "avg_knotted_p": 0.6293,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.363,
+          "avg_knotted_p": 0.7111,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.391,
+          "avg_knotted_p": 0.6909,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.419,
+          "avg_knotted_p": 0.6805,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.447,
+          "avg_knotted_p": 0.6269,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.475,
+          "avg_knotted_p": 0.6475,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.503,
+          "avg_knotted_p": 0.6029,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.531,
+          "avg_knotted_p": 0.6967,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.559,
+          "avg_knotted_p": 0.7017,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.587,
+          "avg_knotted_p": 0.66,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.615,
+          "avg_knotted_p": 0.6491,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.642,
+          "avg_knotted_p": 0.7556,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.67,
+          "avg_knotted_p": 0.7169,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.698,
+          "avg_knotted_p": 0.6536,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.726,
+          "avg_knotted_p": 0.6782,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 270,
+          "norm_position": 0.754,
+          "avg_knotted_p": 0.7054,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 280,
+          "norm_position": 0.782,
+          "avg_knotted_p": 0.6482,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 290,
+          "norm_position": 0.81,
+          "avg_knotted_p": 0.7606,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 300,
+          "norm_position": 0.838,
+          "avg_knotted_p": 0.7288,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 400.0
+    },
+    {
+      "protein_id": "R_A0A7G3A773",
+      "seq_len": 256,
+      "core_start": 165,
+      "core_end": 228,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9538,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.039,
+          "avg_knotted_p": 0.882,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.078,
+          "avg_knotted_p": 0.9474,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.117,
+          "avg_knotted_p": 0.9364,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.156,
+          "avg_knotted_p": 0.9287,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.195,
+          "avg_knotted_p": 0.8798,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.234,
+          "avg_knotted_p": 0.8637,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.273,
+          "avg_knotted_p": 0.945,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.312,
+          "avg_knotted_p": 0.9197,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.352,
+          "avg_knotted_p": 0.9186,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.391,
+          "avg_knotted_p": 0.8981,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.43,
+          "avg_knotted_p": 0.9526,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.469,
+          "avg_knotted_p": 0.9577,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.508,
+          "avg_knotted_p": 0.7404,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.547,
+          "avg_knotted_p": 0.9092,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.586,
+          "avg_knotted_p": 0.9319,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.625,
+          "avg_knotted_p": 0.9094,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.664,
+          "avg_knotted_p": 0.93,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.703,
+          "avg_knotted_p": 0.9275,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.742,
+          "avg_knotted_p": 0.8638,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.781,
+          "avg_knotted_p": 0.955,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 264.2
+    },
+    {
+      "protein_id": "R_A0A2S8BQR7",
+      "seq_len": 284,
+      "core_start": 212,
+      "core_end": 257,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9375,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.035,
+          "avg_knotted_p": 0.9103,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.07,
+          "avg_knotted_p": 0.8923,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.106,
+          "avg_knotted_p": 0.9183,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.141,
+          "avg_knotted_p": 0.9625,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.176,
+          "avg_knotted_p": 0.8909,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.211,
+          "avg_knotted_p": 0.9293,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.246,
+          "avg_knotted_p": 0.9276,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.282,
+          "avg_knotted_p": 0.8737,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.317,
+          "avg_knotted_p": 0.8609,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.352,
+          "avg_knotted_p": 0.8527,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.387,
+          "avg_knotted_p": 0.8943,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.423,
+          "avg_knotted_p": 0.9082,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 130,
+          "norm_position": 0.458,
+          "avg_knotted_p": 0.8946,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 140,
+          "norm_position": 0.493,
+          "avg_knotted_p": 0.8989,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 150,
+          "norm_position": 0.528,
+          "avg_knotted_p": 0.8914,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 160,
+          "norm_position": 0.563,
+          "avg_knotted_p": 0.8816,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 170,
+          "norm_position": 0.599,
+          "avg_knotted_p": 0.8137,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.634,
+          "avg_knotted_p": 0.9074,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.669,
+          "avg_knotted_p": 0.909,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.704,
+          "avg_knotted_p": 0.8113,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.739,
+          "avg_knotted_p": 0.8432,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.775,
+          "avg_knotted_p": 0.9179,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.81,
+          "avg_knotted_p": 0.9365,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 314.7
+    },
+    {
+      "protein_id": "R_A0A1V5GGF4",
+      "seq_len": 158,
+      "core_start": 75,
+      "core_end": 118,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9721,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.063,
+          "avg_knotted_p": 0.98,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.127,
+          "avg_knotted_p": 0.9821,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.19,
+          "avg_knotted_p": 0.9718,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.253,
+          "avg_knotted_p": 0.9585,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.316,
+          "avg_knotted_p": 0.9182,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.38,
+          "avg_knotted_p": 0.9808,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.443,
+          "avg_knotted_p": 0.9917,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.506,
+          "avg_knotted_p": 0.9721,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.57,
+          "avg_knotted_p": 0.9543,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.633,
+          "avg_knotted_p": 0.9642,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 118.7
+    },
+    {
+      "protein_id": "R_A0A7C4XLY3",
+      "seq_len": 381,
+      "core_start": 12,
+      "core_end": 259,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.7634,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 10,
+          "norm_position": 0.026,
+          "avg_knotted_p": 0.782,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 20,
+          "norm_position": 0.052,
+          "avg_knotted_p": 0.8305,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 30,
+          "norm_position": 0.079,
+          "avg_knotted_p": 0.7278,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 40,
+          "norm_position": 0.105,
+          "avg_knotted_p": 0.7073,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 50,
+          "norm_position": 0.131,
+          "avg_knotted_p": 0.7952,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 60,
+          "norm_position": 0.157,
+          "avg_knotted_p": 0.8194,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 70,
+          "norm_position": 0.184,
+          "avg_knotted_p": 0.7964,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 80,
+          "norm_position": 0.21,
+          "avg_knotted_p": 0.7941,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 90,
+          "norm_position": 0.236,
+          "avg_knotted_p": 0.7896,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 100,
+          "norm_position": 0.262,
+          "avg_knotted_p": 0.7696,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 110,
+          "norm_position": 0.289,
+          "avg_knotted_p": 0.7981,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 120,
+          "norm_position": 0.315,
+          "avg_knotted_p": 0.6966,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 130,
+          "norm_position": 0.341,
+          "avg_knotted_p": 0.7588,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 140,
+          "norm_position": 0.367,
+          "avg_knotted_p": 0.8059,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.394,
+          "avg_knotted_p": 0.7894,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.42,
+          "avg_knotted_p": 0.8246,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.446,
+          "avg_knotted_p": 0.8453,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.472,
+          "avg_knotted_p": 0.7932,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.499,
+          "avg_knotted_p": 0.8125,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.525,
+          "avg_knotted_p": 0.8506,
+          "in_core": true,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.551,
+          "avg_knotted_p": 0.738,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 220,
+          "norm_position": 0.577,
+          "avg_knotted_p": 0.7527,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 230,
+          "norm_position": 0.604,
+          "avg_knotted_p": 0.8291,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 240,
+          "norm_position": 0.63,
+          "avg_knotted_p": 0.7847,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 250,
+          "norm_position": 0.656,
+          "avg_knotted_p": 0.7819,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 260,
+          "norm_position": 0.682,
+          "avg_knotted_p": 0.791,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 270,
+          "norm_position": 0.709,
+          "avg_knotted_p": 0.8082,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 280,
+          "norm_position": 0.735,
+          "avg_knotted_p": 0.8161,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 290,
+          "norm_position": 0.761,
+          "avg_knotted_p": 0.7204,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 300,
+          "norm_position": 0.787,
+          "avg_knotted_p": 0.789,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 310,
+          "norm_position": 0.814,
+          "avg_knotted_p": 0.8105,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 320,
+          "norm_position": 0.84,
+          "avg_knotted_p": 0.7504,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 330,
+          "norm_position": 0.866,
+          "avg_knotted_p": 0.8294,
+          "in_core": false,
+          "overlaps_core": false
+        }
+      ],
+      "total_time_s": 460.3
+    },
+    {
+      "protein_id": "R_A0A7G8T721",
+      "seq_len": 261,
+      "core_start": 187,
+      "core_end": 227,
+      "window_size": 50,
+      "vulnerability": [
+        {
+          "position": 0,
+          "norm_position": 0.0,
+          "avg_knotted_p": 0.9427,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 10,
+          "norm_position": 0.038,
+          "avg_knotted_p": 0.931,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 20,
+          "norm_position": 0.077,
+          "avg_knotted_p": 0.9259,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 30,
+          "norm_position": 0.115,
+          "avg_knotted_p": 0.9821,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 40,
+          "norm_position": 0.153,
+          "avg_knotted_p": 0.9167,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 50,
+          "norm_position": 0.192,
+          "avg_knotted_p": 0.9821,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 60,
+          "norm_position": 0.23,
+          "avg_knotted_p": 0.9451,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 70,
+          "norm_position": 0.268,
+          "avg_knotted_p": 0.945,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 80,
+          "norm_position": 0.307,
+          "avg_knotted_p": 0.9629,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 90,
+          "norm_position": 0.345,
+          "avg_knotted_p": 0.953,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 100,
+          "norm_position": 0.383,
+          "avg_knotted_p": 0.9432,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 110,
+          "norm_position": 0.421,
+          "avg_knotted_p": 0.9638,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 120,
+          "norm_position": 0.46,
+          "avg_knotted_p": 0.9728,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 130,
+          "norm_position": 0.498,
+          "avg_knotted_p": 0.939,
+          "in_core": false,
+          "overlaps_core": false
+        },
+        {
+          "position": 140,
+          "norm_position": 0.536,
+          "avg_knotted_p": 0.9033,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 150,
+          "norm_position": 0.575,
+          "avg_knotted_p": 0.9565,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 160,
+          "norm_position": 0.613,
+          "avg_knotted_p": 0.9649,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 170,
+          "norm_position": 0.651,
+          "avg_knotted_p": 0.9156,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 180,
+          "norm_position": 0.69,
+          "avg_knotted_p": 0.9024,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 190,
+          "norm_position": 0.728,
+          "avg_knotted_p": 0.9056,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 200,
+          "norm_position": 0.766,
+          "avg_knotted_p": 0.9557,
+          "in_core": false,
+          "overlaps_core": true
+        },
+        {
+          "position": 210,
+          "norm_position": 0.805,
+          "avg_knotted_p": 0.9719,
+          "in_core": false,
+          "overlaps_core": true
+        }
+      ],
+      "total_time_s": 249.0
+    }
+  ]
+}

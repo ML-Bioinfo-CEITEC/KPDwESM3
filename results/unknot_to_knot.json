@@ -1,0 +1,1344 @@
+{
+  "wall_time_s": 1758.7,
+  "success_rate": 0.1,
+  "n_success": 3,
+  "n_total": 30,
+  "results": [
+    {
+      "protein_id": "R_A0A7C5CLF4",
+      "seq_len": 837,
+      "success": false,
+      "iterations": 0,
+      "time_s": 0,
+      "error": "sequence_too_long",
+      "history": []
+    },
+    {
+      "protein_id": "R_A0A2V8RYN2",
+      "seq_len": 367,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 879.4,
+      "final_sequence": "MRRLIPRGLALSFLFALGAQGEEKEAKPEAVAVEAELINHQVSVVDHAQRVITGLAQEDFSIFEDNVPQEIEFFAKLDAPLDVVLLVQTGAPATDDVQLAMRAIPDLAAVLSPGDRLAVLTYSQPIRGFSPEAGISITGGFTADRGKLMALAVQDVRSGGGALRDGLMLASVYGRPEAPVDAPQGRRVIIALTDGADNASKADLNAVRKELHDKRYTLYTIGLDPSETVHSWWEYVCVTGEKLPVADELMKYRQMPADGQVERKCKQWGGVLTNAHGEITKNLSEARQWMGDLAFVSGGLELRAKTLDEVRQAVRQVVEDARNSYLVGFVSRRQSRDGKYRGLKIKVNNLPKGASLRYRVGYYVPEE",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 56
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 100
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 129
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 157
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 183
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 207
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 235
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 248
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.1071,
+          "n_changes": 251
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 251
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A2V2RME3",
+      "seq_len": 342,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 850.5,
+      "final_sequence": "VRFSLSSLNWLIFLLAIPLIFFLFGIETTHGSALAFPKYRFLHKGRKSPNSQIDKLPFLLEAAGIVLLITALARPRLPTFSRQHKSMGVDIMLCVDISESMLALDMEIGEKYTTRLQVVKNVVSEFIKNREHDRIGLAVFGGYSFIVSPLTLDHSLLLDFLTDIKTEDLEGQTAIGDGLATAAYRLLDSEAKSKVVILLSDGRNTSGFIEPLKAAELAKKYNIKVYSIGVGREGMVPVPMLDSSKGYIKDMFGQVKYQFTKSERDEETLKQIAEITEGEYYDANNAEALKKVYQEIDRLEKSEFKLKPLILYEDLYLPFFYLGLILAFMGIILRFTVLGRIP",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 45
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 79
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 102
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 116
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 146
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 161
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 176
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 179
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.1,
+          "n_changes": 183
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 193
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A4R3YBS3",
+      "seq_len": 323,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 583.9,
+      "final_sequence": "MIPLESSWWLALLLVPIVLIILFPMADARVRLPAIAALSKVAASSGAAVRTRILLSRAATALAWVFLLIALARPVSLGDELSVPTAGRVLMMAVDVSGSMEARDFEKGHTRLQAAQRVAGQFVEERTNDQIGLVLFGSTPYSKAPLTFDRSTVLRSLQEAAIGFAGTRTAIGNALGLAIKRLADEKVVEPEQSDPIVLLLTDGANNAGEIAPETAARMAAEQGIRIHTIGVGGPAVSDEFGRTVTSEIHEEILRKVAVQTGGTYFRARDEAGLRQIYQVIGSLERVDVERLRFRAQTEWFWWPLGAGLLLLLGAVLQRPGATV",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 33
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 63
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 94
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 118
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 126
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 141
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 154
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 163
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.1,
+          "n_changes": 168
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 176
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A6P4YUZ9",
+      "seq_len": 680,
+      "success": false,
+      "iterations": 0,
+      "time_s": 0,
+      "error": "sequence_too_long",
+      "history": []
+    },
+    {
+      "protein_id": "R_A0A7L2K6G6",
+      "seq_len": 157,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 187.6,
+      "final_sequence": "MAETFGHKILLLLSLPSTVVLYISVPICNKDETHGCFMVAFTMSVIWIALLSNFVVEVCTLAGSRLRISDTIMGLTILAAGTSAPDLFTSALVARKGLGDMAVSSSFGSNAFDIGVGLGFPWTLYTIAHSSALPFSIEVKYIKYKLLKSMIVCWVWL",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 17
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 34
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 46
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 53
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 63
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 67
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 77
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 82
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 87
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 88
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A538T0G3",
+      "seq_len": 329,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 620.8,
+      "final_sequence": "AEISTQSTVDITKIVRETLKDIGYHKPEYGIDSENCGVIVALTEQSPDIAQGVDTGGAGDQGMMFGYATNETPELMPLPISLAHAITFHLADIRKKGIVDYLRPDGKSQVTIEYEDNKGIALKSVVISAQHSPEVELAQIQEDIKKFIIEPVLKKYQLEVVAPPEVHINPTGRFVIGGPAGDSGLTGRKIIVDTYGGFARHGGGAFSGKDPTKVDRSASYGLRWIAKNIVASGCATKCEIQVSYAIGVKYPTNIMVHSKGTGRITDERLASLVREHFDFSPDALMKQLDLRRPIYRPCASYGHFGRLDPEWTWEKTDKAVALLAAVAKE",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.1,
+          "n_changes": 24
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.1,
+          "n_changes": 44
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 57
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.1667,
+          "n_changes": 62
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.2143,
+          "n_changes": 77
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 94
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.1,
+          "n_changes": 102
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.1071,
+          "n_changes": 115
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.1379,
+          "n_changes": 124
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 134
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A0T7BNG5",
+      "seq_len": 676,
+      "success": false,
+      "iterations": 0,
+      "time_s": 0,
+      "error": "sequence_too_long",
+      "history": []
+    },
+    {
+      "protein_id": "R_A0A3S4K813",
+      "seq_len": 108,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 166.3,
+      "final_sequence": "LPEGVSGEISSSFEAALAKADFLMATRMQKERFTESEFAALEGQFVISAKHMKGAKENLKIMAPLPRIDELSTDVDATPFSAYFWQAGNGAVIRQVILARALGVSLTG",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 11
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 20
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 28
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 34
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 42
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 50
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 55
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 54
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 56
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 57
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A7X7UMC5",
+      "seq_len": 327,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 592.1,
+      "final_sequence": "MKLQRPEWLYLLLLVPLIIAWQVYTRRQNSAAVRFSNIKILEKLPPTWKVKCQYLPFSLRLLTLAFLILAVAGPQFGIDEKEVTSSGIDIILAMDISTSMLAKDFSPNRLEASKLVASSFVDGRRTDRIGLVVFAANSYTQIPLTLDHSVIKNFIEKLKTGNIEDGTTIGLGIATAVNRLKESDAKSKVIILLTDGNNNKGVIDPLTAAEIAEIYDIKIYTIGVGQRGNALYPQQTIFGTYYRQVPLNIDEDVLRQIANTTGGQYFRAKNGQTLADIYSQIDKMEKTEISIKQYHKRTDEFYPFALMAFLFLLIELILKNTLFRVIP",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 33
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 58
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 77
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 95
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 108
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 111
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 121
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 128
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 139
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 146
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A7Y2BEP9",
+      "seq_len": 420,
+      "success": true,
+      "iterations": 1,
+      "final_score": 1.0,
+      "time_s": 97.9,
+      "final_sequence": "MNRARFTAVLLAVFAFGCESAGPHCRELRLQDLPYIGGEEGAAAGCDESCTSDSGCSPRTYCNARLCIAVCTVEGEQPGSAQDFASCGRACPVGSDQGRIASDGVECGEEELATCRVIPNIMLIVDRSGSMRRDFEGDCPFGGDGCPTSGAPNPDFDEPRWESVEDALVGSNGLVRRLDSIARFGLTLYWKPGEDPPGMEDGAMLASEDGVLFSIGLDNANAISASFADNSPGGETPTAEAIEAVRSRLIGTPPPEGPTVYVLATDGAPQGCDEGGECVDRRLSVEAVERAFAEGIETFVLGVNFDDSHLQDLAEAGQGVGSGATLWTADDVSELQADLEQIVVQNIPCTVSLTDGVITIEKACETTVRCNGELLASGDGRRGWQAVDDSTAELTTSACTTFRGADGEMEAPVPCDVVVQ",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 1.0,
+          "n_changes": 64
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A820SPT8",
+      "seq_len": 271,
+      "success": true,
+      "iterations": 3,
+      "final_score": 0.8889,
+      "time_s": 126.6,
+      "final_sequence": "MNNSQEVSIKPETIDFTKKPMETSFVDQILVATHNNEFVTSEAIPNPDEDKSPVDIICVVDCSSSMSSMVRSQIDLNEYYGISQLDLVKSSLKTIVNSLQDQDRLALVSFSSKATILIKLRKMDETGKRVALDAVESLRINGSTSIYTGLRTGLNLLAQKQSSISSISAMLVLTDGCPTEIPEGGFIEELRELKESIDFNMTIHLFGFSRQLNTNLLENIRQLTSAGGVALIEDAGFVGTKFGNFFDQLNTTVVQNAALMIEGKIIVNQIR",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 41
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 75
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.8889,
+          "n_changes": 107
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A0Q5ARJ8",
+      "seq_len": 254,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 402.9,
+      "final_sequence": "VPAGKTPPVLIGVSIKRPTPRSSPAPRGRRALRVLSPAMLISTLLLAGCATRAVDPSTTTVVTRGCAQCTGSTHTVILVDVSDAVTQEVAVGRAVLNLAEDWASADPTHEDTFEIIAYADDVRTLVPPTSASDLESQGIQRAVRSLREGSCNVADAIQVAYAGLAQVDRTRSLVVIADTGSGCCDPRDALRHTSALDAARHAVVVSRAYGRSATVERAAEARARDVASEGLVTGSAGSIGEDAAYVTKEFGVRI",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 40
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 71
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 97
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 122
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 142
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 157
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.2069,
+          "n_changes": 170
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 175
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 176
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 190
+        }
+      ]
+    },
+    {
+      "protein_id": "R_D2ELP4",
+      "seq_len": 345,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.2593,
+      "time_s": 669.8,
+      "final_sequence": "MNFAGKHFLDLNDFSAEEIDSIITTAFILKAKKKRGEDTPELEGKVMAMIFEKPSARTRTSLEVAFVQMGGNAINLAYSSIQLGVGETVNDTARSLGRMVDIILARVKSHETVKLLGKYSGVPVTNALSDNNNPLQLISDWITIKENNLNNNNLNSLKLAYVGSASGMAYAIMEGCARLGIDFSIAAPEGFYMNEDVVNKAKELFNNVGAKVTITNKPEQAVEDADFIYTDAWAGPGLSEEELEYKRKIFFPSYQINERLMSKANTNVRFMHCMPAYRGHEVTDEVMESDHSIVFDEAENRMHTAKAVFAFILNPTLLLEDWGVGATLTDDDCLNEVFIKSRLDE",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 43
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.1429,
+          "n_changes": 75
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.1111,
+          "n_changes": 93
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 118
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.1429,
+          "n_changes": 143
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.2857,
+          "n_changes": 156
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.1071,
+          "n_changes": 167
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.1111,
+          "n_changes": 176
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.1538,
+          "n_changes": 185
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.2593,
+          "n_changes": 194
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A376LAK7",
+      "seq_len": 113,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 118.4,
+      "final_sequence": "MFHVNRTAHSFAKTAPQFGMNVVFATPEGYELNKEYINEAALFAKENGVTYQVTTDVKAAFEGPVIIYPAMWAPLGAMTERLLFKAQLQIEERIFVEVFSSLANRHERRLVML",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 15
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 29
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 43
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 57
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 65
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 68
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.1429,
+          "n_changes": 72
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 68
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.1034,
+          "n_changes": 74
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 80
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A2P1S729",
+      "seq_len": 270,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.1481,
+      "time_s": 529.0,
+      "final_sequence": "MNRNEFIRKLKKEVFVSTKRLDKIFSGEYHAVFKGTGIEFEEVREYQSGDDVRQIDWNVTARMGKPYVKKFTEEREMSVFLMLDVSKSMAFRNKLLSTIELAGMLALSAVRGLDKIGVIFFSDKIEKVVAPNRGKRYVNYVLTEMLKFEIQGKGTSIKKTLDWFNENIKRKGVSFLISDFLDKDYEEPLKRISRKVDLSAVNICDNIELTLPKIGLIHATDSESGREISLEVFPKKDDATLNLPVPYLKINTDDNLTEKLRAFYNARGNR",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.1724,
+          "n_changes": 33
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 62
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 83
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.1333,
+          "n_changes": 91
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 107
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.1429,
+          "n_changes": 116
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 128
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.2,
+          "n_changes": 138
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.1724,
+          "n_changes": 142
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.1481,
+          "n_changes": 155
+        }
+      ]
+    },
+    {
+      "protein_id": "R_T1FPT4",
+      "seq_len": 453,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.1034,
+      "time_s": 933.6,
+      "final_sequence": "MLRTKFLIYTICHLILATPGQLIDICDVTSQSQVAFVVDTSSSNCNPTIKENGVSQYQDMQAFIKDVVDHFQIGTTGTRVAITTFSWVRFPVILLDEEYNRTTLLAEIDTITCSLGNTLTDEGLVQARTKLFSTMESGRNNSNKNIVLITDGLSNYTYSSTAAEAELSKAAGITIFAVGIGKRASENELRDIASQPYSQHYLNPASFQVLQNYVKEIADSLTASETKIEVCTPGAYLDIAFVIDRSSSTLNLTFDNVCEPSNFDLIHQFIIDVVSKLVVGQDAARVGVVSFSGTPLGDIYLKSKNDYAEVQLEISAMPCHDSGTNTGAGLNLAKDRVFTEVNGARKGVPRIAIVITDGKSNYTYSPTATEAEILKAKGFTVFAVGIAQQVNNIELRDIASQPYARHYFNVSDFRALKDSMDEILKMICEMNLTCTQVSVINNNTTNQKTCYKT",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 65
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.1333,
+          "n_changes": 117
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 161
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.1429,
+          "n_changes": 198
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 225
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.1034,
+          "n_changes": 252
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 261
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 276
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 294
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.1034,
+          "n_changes": 307
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A6T6WEA5",
+      "seq_len": 664,
+      "success": false,
+      "iterations": 0,
+      "time_s": 0,
+      "error": "sequence_too_long",
+      "history": []
+    },
+    {
+      "protein_id": "R_A0A4R6V5X7",
+      "seq_len": 688,
+      "success": false,
+      "iterations": 0,
+      "time_s": 0,
+      "error": "sequence_too_long",
+      "history": []
+    },
+    {
+      "protein_id": "R_A0A521QWX6",
+      "seq_len": 318,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 502.4,
+      "final_sequence": "MPTNLEGWTRPFMATDFGFLRPWVLWLLIPACAVLWMVSWRGTSGDNWRRYCEPALLERMARADTGGRGWRPWLLPALGVILAVVATAGPTWQQQHWPFAGERIPMVIAVKIGDDMMAEDVKPNRLERIRYKIQDALKRSGNREVAIVAYGGSAHLVLPLTDDLALAEQMVAALSPELMPVPGDNLSAAVAMAAQVLADRDQPGQLLLVTPGLSPDAAATLKAMTPDPAWNVLGVASGDESSEGADIRAAVQGAHGNYQRVTLDDQDLMKLHAGREDKAALAVLMGPDSPWQDRGMWLLPPAILGVLLAARPVQVALT",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 34
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 73
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 106
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 120
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 147
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 163
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 176
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 191
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 199
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 199
+        }
+      ]
+    },
+    {
+      "protein_id": "R_W4VAM9",
+      "seq_len": 290,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 475.7,
+      "final_sequence": "MGLEAGGSTAGGQGIELAYDIASRSFIDGGNNRIILATDGDFNVGVSSNAEIERLVEEKRNEGIYLSVLGFGMGNYKDSRMELLADKGNGNYAYIDTITEARKVLGNETGGTLLTIAKDVKIQIEFNKERVKEYRLIGYENRLLRKEDFENDSVDAGELGSGHTVTAIYEIIPVGSELAKTMVSESKYQTEAGDDDENVALVKIRYKKPEESDSKLLTYTVEKGGERTPSVEFGFALAVAGFGLLLRDSEYKGNLELSSTLDTARKYKGSDEHGYREEFIGLIEKAMRWN",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 21
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 42
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 55
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.1,
+          "n_changes": 64
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 75
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 89
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 99
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 102
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 97
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 98
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A4U1H663",
+      "seq_len": 389,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.2857,
+      "time_s": 717.0,
+      "final_sequence": "MSSHIEQLLMELGLQPVHIINEHQREPWDRALHQRIEDWNGKTRIEALIEPEPQVMLMEVSLDAIESPSAFDAAWLAGHTHFAAQHFEELLSIMHAYHSAHERKAAWQATHQRLDSPIQDLLAEPDLACYTARFIWEVDGELAEWVQQCAAVLQRANAGKPIADGGVLQSIEKGLQVDRMLPVEVAALTDPTAQGLYRQLHASELLHRYWQQESLQAGEGATIIMVDGSDSMQGEKNRYAAAFSVAAMLHVSKMNVPIALLEFADREYRQMLDFTDLPENLGRWVHYQVGDTPLGEALLLAADMAFGRTTSGRGKARVLLITDGQARGVTGLLEQRARLNRVNAYLHVLAIEAPKECTKLLSGLADDYTVVNGLDELAHSIGRLVATNE",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 62
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 119
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.1,
+          "n_changes": 158
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 195
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.1852,
+          "n_changes": 223
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.1923,
+          "n_changes": 237
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.1,
+          "n_changes": 262
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 280
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.3103,
+          "n_changes": 285
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.2857,
+          "n_changes": 299
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A1Q4HHM8",
+      "seq_len": 510,
+      "success": false,
+      "iterations": 0,
+      "time_s": 0,
+      "error": "sequence_too_long",
+      "history": []
+    },
+    {
+      "protein_id": "R_A0A6A2ZXH1",
+      "seq_len": 739,
+      "success": false,
+      "iterations": 0,
+      "time_s": 0,
+      "error": "sequence_too_long",
+      "history": []
+    },
+    {
+      "protein_id": "R_A0A1Y1Z9H2",
+      "seq_len": 366,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 710.9,
+      "final_sequence": "MCISPYYSIESQRRGGQYREVARSQVFPKSLNPIWEHQYMLEEQDFYGSNGRRIRIRVMDHRSRRGDLFLGETHLSIEQMTESIGQNLPLLNSDSSIPENGSICIDSFNVAKRFCFIDYIRGGASVHLEIALDLTKSNGNPKNPESLYYVNDTQLNPYMQTIHAVGNVISVYDSDKIYPVLAFGGMTNERPSSAFHLFPQKVQSIEQVIESIQQGVSQVQLANHTLLSGPIQEAILRAQAMQQQPSSTRAVQTNYHVLLILTDGEIDDIKSTLKEIIKASELPLSIIIVGVGQNYFESLGKLDGDKGLIDINGLEASRDIVQFITFSQYIGQDGDEFAREALQEVPDQLVEYFRARQIPPISQLSR",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 51
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 87
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 112
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.1034,
+          "n_changes": 134
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.0,
+          "n_changes": 167
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 188
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.1,
+          "n_changes": 205
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 216
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 227
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 223
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A179BGC1",
+      "seq_len": 411,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 1029.3,
+      "final_sequence": "MNATKLYEAFVSMMGDRRGNAMITAMLFIVPLVLFATLGIDVTRAYSGRQLAQAAADGAALAASHALYNSTMTIAQANAFAAKQFAMYMPDWNQDSDFTVSLLKAGLQSQTSGFNKTAQKEINSFMLGNFGNASQSADVKAFTSSTYPTISSVVSQWAPLVDVYLLLDRSGSMTSSIAAVAAANANGTAAAATKGDGANCGSKGDGKDQASGGVQNPNKVEALKCAAQSMFSAISGAGPDRERYRFGLWTFSSGQVDTVSMGTDRSKIDTAIKGISASGNTYISKATCEASKKLLGGAVSPGGTEDAAINMQNEDYVQKVILIMTDGTINDCSGTSETPTQALRNTCNTAKALGVTVYTVAFEAPTDGVTLLQSCASSDTYYNQATTMSELNKILTDIAGNLSLRPPLLTR",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 60
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 106
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 149
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.0,
+          "n_changes": 179
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.1786,
+          "n_changes": 208
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.0,
+          "n_changes": 234
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 251
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 262
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 282
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 291
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A4V4LCF3",
+      "seq_len": 120,
+      "success": true,
+      "iterations": 6,
+      "final_score": 0.88,
+      "time_s": 105.7,
+      "final_sequence": "NPEETQRLRDGSDFGNWPNLQSNHDQLGIAASVARVGYSFDMEGPEGNLGGSYTCQSNGPTMTGVWVSIAQRSTLTCPTSAAPSLESFAPLADDLIEHCAVGGTGLRGRVLNVANCAWNS",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.1333,
+          "n_changes": 23
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.3333,
+          "n_changes": 38
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.1786,
+          "n_changes": 50
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.1,
+          "n_changes": 66
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.1034,
+          "n_changes": 79
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.88,
+          "n_changes": 90
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A7V6Q5K7",
+      "seq_len": 548,
+      "success": false,
+      "iterations": 0,
+      "time_s": 0,
+      "error": "sequence_too_long",
+      "history": []
+    },
+    {
+      "protein_id": "R_A0A3M9ZJG5",
+      "seq_len": 237,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 372.2,
+      "final_sequence": "MDTIVPPPVVDRLAAWCRPYAAIACDSGSESDGDAGDASRATALSLAGLFGAFAGSDRVAGRRNAILVLVDTSASVAPRLAGVITAAYALSLVFERARVLHAIVGFGTVRDSLRMASVKGWAEKGTPARLASLLELSPSGATPVTEALEYSYAVLAEIRPARVLLLTDGRPSDPAAVADWADRFRRRQITLLGLAVGDLSNVLEDVSDSFCVTRARIGYDVAHLAHLVVDAVVASEW",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.1,
+          "n_changes": 38
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.1379,
+          "n_changes": 71
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.1071,
+          "n_changes": 96
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.2333,
+          "n_changes": 110
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.1429,
+          "n_changes": 122
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.1429,
+          "n_changes": 136
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.1333,
+          "n_changes": 148
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 163
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.1071,
+          "n_changes": 173
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 177
+        }
+      ]
+    },
+    {
+      "protein_id": "R_A0A1G5PIM4",
+      "seq_len": 178,
+      "success": false,
+      "iterations": 10,
+      "final_score": 0.0,
+      "time_s": 244.6,
+      "final_sequence": "DCSQEGTMSVSKMPETRLAVVEQALFDLAKAKDNVDEVSVSAYCFAAPGHSGCRTLSKPAKRTADALIASVGSCMPSGGTATHDALSMAAAIPKIAKSGRKRLLLVTDGSSDNLAASIAAAAACRASGIVIEMLWYGSGDQDILRQMSPDPHVSDFASLGLAESAVAKAMAVSSALPA",
+      "error": null,
+      "history": [
+        {
+          "iteration": 0,
+          "knot_score": 0.0,
+          "n_changes": 30
+        },
+        {
+          "iteration": 1,
+          "knot_score": 0.0,
+          "n_changes": 58
+        },
+        {
+          "iteration": 2,
+          "knot_score": 0.0,
+          "n_changes": 69
+        },
+        {
+          "iteration": 3,
+          "knot_score": 0.1379,
+          "n_changes": 83
+        },
+        {
+          "iteration": 4,
+          "knot_score": 0.1034,
+          "n_changes": 94
+        },
+        {
+          "iteration": 5,
+          "knot_score": 0.1071,
+          "n_changes": 100
+        },
+        {
+          "iteration": 6,
+          "knot_score": 0.0,
+          "n_changes": 110
+        },
+        {
+          "iteration": 7,
+          "knot_score": 0.0,
+          "n_changes": 120
+        },
+        {
+          "iteration": 8,
+          "knot_score": 0.0,
+          "n_changes": 125
+        },
+        {
+          "iteration": 9,
+          "knot_score": 0.0,
+          "n_changes": 130
+        }
+      ]
+    }
+  ]
+}

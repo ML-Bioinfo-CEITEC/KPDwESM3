@@ -1,0 +1,485 @@
+{
+  "wall_time_s": 2587.3,
+  "results": [
+    {
+      "attempt": 100000,
+      "length": 100,
+      "knot_score": 0.4138,
+      "is_knotted": false,
+      "time_s": 55.9,
+      "error": null
+    },
+    {
+      "attempt": 100001,
+      "length": 100,
+      "knot_score": 0.8214,
+      "is_knotted": true,
+      "time_s": 52.5,
+      "error": null
+    },
+    {
+      "attempt": 100002,
+      "length": 100,
+      "knot_score": 0.2414,
+      "is_knotted": false,
+      "time_s": 51.8,
+      "error": null
+    },
+    {
+      "attempt": 100003,
+      "length": 100,
+      "knot_score": 0.1667,
+      "is_knotted": false,
+      "time_s": 51.6,
+      "error": null
+    },
+    {
+      "attempt": 100004,
+      "length": 100,
+      "knot_score": 0.0,
+      "is_knotted": false,
+      "time_s": 52.4,
+      "error": null
+    },
+    {
+      "attempt": 100005,
+      "length": 100,
+      "knot_score": 0.2,
+      "is_knotted": false,
+      "time_s": 54.1,
+      "error": null
+    },
+    {
+      "attempt": 100006,
+      "length": 100,
+      "knot_score": 0.8077,
+      "is_knotted": true,
+      "time_s": 51.9,
+      "error": null
+    },
+    {
+      "attempt": 100007,
+      "length": 100,
+      "knot_score": 0.0,
+      "is_knotted": false,
+      "time_s": 53.2,
+      "error": null
+    },
+    {
+      "attempt": 100008,
+      "length": 100,
+      "knot_score": 0.0,
+      "is_knotted": false,
+      "time_s": 53.6,
+      "error": null
+    },
+    {
+      "attempt": 100009,
+      "length": 100,
+      "knot_score": 0.0,
+      "is_knotted": false,
+      "time_s": 52.7,
+      "error": null
+    },
+    {
+      "attempt": 150000,
+      "length": 150,
+      "knot_score": 0.1724,
+      "is_knotted": false,
+      "time_s": 78.3,
+      "error": null
+    },
+    {
+      "attempt": 150001,
+      "length": 150,
+      "knot_score": 0.0,
+      "is_knotted": false,
+      "time_s": 93.3,
+      "error": null
+    },
+    {
+      "attempt": 150002,
+      "length": 150,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 68.6,
+      "error": null
+    },
+    {
+      "attempt": 150003,
+      "length": 150,
+      "knot_score": 0.6786,
+      "is_knotted": true,
+      "time_s": 67.3,
+      "error": null
+    },
+    {
+      "attempt": 150004,
+      "length": 150,
+      "knot_score": 0.5172,
+      "is_knotted": true,
+      "time_s": 74.3,
+      "error": null
+    },
+    {
+      "attempt": 150005,
+      "length": 150,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 69.9,
+      "error": null
+    },
+    {
+      "attempt": 150006,
+      "length": 150,
+      "knot_score": 0.2,
+      "is_knotted": false,
+      "time_s": 75.7,
+      "error": null
+    },
+    {
+      "attempt": 150007,
+      "length": 150,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 72.6,
+      "error": null
+    },
+    {
+      "attempt": 150008,
+      "length": 150,
+      "knot_score": 0.0,
+      "is_knotted": false,
+      "time_s": 77.8,
+      "error": null
+    },
+    {
+      "attempt": 150009,
+      "length": 150,
+      "knot_score": 0.7667,
+      "is_knotted": true,
+      "time_s": 65.0,
+      "error": null
+    },
+    {
+      "attempt": 200000,
+      "length": 200,
+      "knot_score": 0.9286,
+      "is_knotted": true,
+      "time_s": 100.6,
+      "error": null
+    },
+    {
+      "attempt": 200001,
+      "length": 200,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 106.0,
+      "error": null
+    },
+    {
+      "attempt": 200002,
+      "length": 200,
+      "knot_score": 0.0,
+      "is_knotted": false,
+      "time_s": 118.3,
+      "error": null
+    },
+    {
+      "attempt": 200003,
+      "length": 200,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 108.5,
+      "error": null
+    },
+    {
+      "attempt": 200004,
+      "length": 200,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 109.6,
+      "error": null
+    },
+    {
+      "attempt": 200005,
+      "length": 200,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 114.1,
+      "error": null
+    },
+    {
+      "attempt": 200006,
+      "length": 200,
+      "knot_score": 0.96,
+      "is_knotted": true,
+      "time_s": 135.5,
+      "error": null
+    },
+    {
+      "attempt": 200007,
+      "length": 200,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 100.0,
+      "error": null
+    },
+    {
+      "attempt": 200008,
+      "length": 200,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 121.3,
+      "error": null
+    },
+    {
+      "attempt": 200009,
+      "length": 200,
+      "knot_score": 0.9643,
+      "is_knotted": true,
+      "time_s": 100.3,
+      "error": null
+    },
+    {
+      "attempt": 256000,
+      "length": 256,
+      "knot_score": 0.963,
+      "is_knotted": true,
+      "time_s": 148.0,
+      "error": null
+    },
+    {
+      "attempt": 256001,
+      "length": 256,
+      "knot_score": 0.9333,
+      "is_knotted": true,
+      "time_s": 152.6,
+      "error": null
+    },
+    {
+      "attempt": 256002,
+      "length": 256,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 157.4,
+      "error": null
+    },
+    {
+      "attempt": 256003,
+      "length": 256,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 160.0,
+      "error": null
+    },
+    {
+      "attempt": 256004,
+      "length": 256,
+      "knot_score": 0.0,
+      "is_knotted": false,
+      "time_s": 152.8,
+      "error": null
+    },
+    {
+      "attempt": 256005,
+      "length": 256,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 203.7,
+      "error": null
+    },
+    {
+      "attempt": 256006,
+      "length": 256,
+      "knot_score": 0.6667,
+      "is_knotted": true,
+      "time_s": 141.9,
+      "error": null
+    },
+    {
+      "attempt": 256007,
+      "length": 256,
+      "knot_score": 0.7917,
+      "is_knotted": true,
+      "time_s": 166.1,
+      "error": null
+    },
+    {
+      "attempt": 256008,
+      "length": 256,
+      "knot_score": 0.9643,
+      "is_knotted": true,
+      "time_s": 155.9,
+      "error": null
+    },
+    {
+      "attempt": 256009,
+      "length": 256,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 139.9,
+      "error": null
+    },
+    {
+      "attempt": 350000,
+      "length": 350,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 217.0,
+      "error": null
+    },
+    {
+      "attempt": 350001,
+      "length": 350,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 208.3,
+      "error": null
+    },
+    {
+      "attempt": 350002,
+      "length": 350,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 209.1,
+      "error": null
+    },
+    {
+      "attempt": 350003,
+      "length": 350,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 211.7,
+      "error": null
+    },
+    {
+      "attempt": 350004,
+      "length": 350,
+      "knot_score": 0.68,
+      "is_knotted": true,
+      "time_s": 218.0,
+      "error": null
+    },
+    {
+      "attempt": 350005,
+      "length": 350,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 191.2,
+      "error": null
+    },
+    {
+      "attempt": 350006,
+      "length": 350,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 221.6,
+      "error": null
+    },
+    {
+      "attempt": 350007,
+      "length": 350,
+      "knot_score": 0.931,
+      "is_knotted": true,
+      "time_s": 211.9,
+      "error": null
+    },
+    {
+      "attempt": 350008,
+      "length": 350,
+      "knot_score": 0.9643,
+      "is_knotted": true,
+      "time_s": 225.3,
+      "error": null
+    },
+    {
+      "attempt": 350009,
+      "length": 350,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 293.1,
+      "error": null
+    },
+    {
+      "attempt": 500000,
+      "length": 500,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 404.3,
+      "error": null
+    },
+    {
+      "attempt": 500001,
+      "length": 500,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 394.6,
+      "error": null
+    },
+    {
+      "attempt": 500002,
+      "length": 500,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 365.7,
+      "error": null
+    },
+    {
+      "attempt": 500003,
+      "length": 500,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 410.8,
+      "error": null
+    },
+    {
+      "attempt": 500004,
+      "length": 500,
+      "knot_score": 0.9643,
+      "is_knotted": true,
+      "time_s": 342.9,
+      "error": null
+    },
+    {
+      "attempt": 500005,
+      "length": 500,
+      "knot_score": 0.9286,
+      "is_knotted": true,
+      "time_s": 373.1,
+      "error": null
+    },
+    {
+      "attempt": 500006,
+      "length": 500,
+      "knot_score": 0.9643,
+      "is_knotted": true,
+      "time_s": 393.7,
+      "error": null
+    },
+    {
+      "attempt": 500007,
+      "length": 500,
+      "knot_score": 0.9655,
+      "is_knotted": true,
+      "time_s": 406.8,
+      "error": null
+    },
+    {
+      "attempt": 500008,
+      "length": 500,
+      "knot_score": 0.9231,
+      "is_knotted": true,
+      "time_s": 487.2,
+      "error": null
+    },
+    {
+      "attempt": 500009,
+      "length": 500,
+      "knot_score": 1.0,
+      "is_knotted": true,
+      "time_s": 407.7,
+      "error": null
+    }
+  ]
+}

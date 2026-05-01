@@ -11,7 +11,6 @@ We investigate how multimodal protein language models interact with topological 
 ├── tex/                    # Paper LaTeX source and figures
 ├── results/                # Experiment outputs (JSON)
 ├── notes/                  # Working notes and analysis
-├── workshop_papers/        # Original workshop paper drafts and reviews
 └── old_codes/              # Original Jupyter notebooks
 ```
 

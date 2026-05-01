@@ -1,0 +1,47 @@
+{
+  "embed_wall_time_s": 179.3,
+  "clf_time_s": 106.9,
+  "n_proteins": 5000,
+  "metrics": {
+    "accuracy": 0.971,
+    "confusion_matrix": [
+      [
+        784,
+        16
+      ],
+      [
+        13,
+        187
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.9836888331242158,
+        "recall": 0.98,
+        "f1-score": 0.9818409517845961,
+        "support": 800.0
+      },
+      "1": {
+        "precision": 0.9211822660098522,
+        "recall": 0.935,
+        "f1-score": 0.9280397022332506,
+        "support": 200.0
+      },
+      "accuracy": 0.971,
+      "macro avg": {
+        "precision": 0.952435549567034,
+        "recall": 0.9575,
+        "f1-score": 0.9549403270089234,
+        "support": 1000.0
+      },
+      "weighted avg": {
+        "precision": 0.9711875197013431,
+        "recall": 0.971,
+        "f1-score": 0.971080701874327,
+        "support": 1000.0
+      }
+    },
+    "n_train": 4000,
+    "n_val": 1000
+  }
+}

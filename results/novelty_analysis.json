@@ -1,0 +1,11 @@
+{
+  "n_generated": 89,
+  "n_known_knotted": 1000,
+  "max_identity_to_knotted": {
+    "mean": 0.1049,
+    "median": 0.1045,
+    "max": 0.145,
+    "min": 0.0895,
+    "pct_above_30": 0.0
+  }
+}

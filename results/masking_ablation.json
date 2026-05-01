@@ -1,0 +1,66 @@
+{
+  "description": "Masking percentage ablation for knot score",
+  "n_proteins": 80,
+  "levels": {
+    "10": {
+      "mean": 0.8735,
+      "std": 0.1341,
+      "pct_above_50": 0.975,
+      "pct_above_80": 0.8
+    },
+    "20": {
+      "mean": 0.8588,
+      "std": 0.1675,
+      "pct_above_50": 0.9375,
+      "pct_above_80": 0.8
+    },
+    "30": {
+      "mean": 0.8551,
+      "std": 0.1663,
+      "pct_above_50": 0.95,
+      "pct_above_80": 0.7375
+    },
+    "40": {
+      "mean": 0.8525,
+      "std": 0.1759,
+      "pct_above_50": 0.9375,
+      "pct_above_80": 0.7875
+    },
+    "50": {
+      "mean": 0.8298,
+      "std": 0.2047,
+      "pct_above_50": 0.9125,
+      "pct_above_80": 0.7125
+    },
+    "60": {
+      "mean": 0.8032,
+      "std": 0.2288,
+      "pct_above_50": 0.9,
+      "pct_above_80": 0.7
+    },
+    "70": {
+      "mean": 0.7276,
+      "std": 0.254,
+      "pct_above_50": 0.8125,
+      "pct_above_80": 0.5375
+    },
+    "80": {
+      "mean": 0.5915,
+      "std": 0.3149,
+      "pct_above_50": 0.6375,
+      "pct_above_80": 0.3875
+    },
+    "85": {
+      "mean": 0.4386,
+      "std": 0.3073,
+      "pct_above_50": 0.4625,
+      "pct_above_80": 0.1875
+    },
+    "90": {
+      "mean": 0.2953,
+      "std": 0.2517,
+      "pct_above_50": 0.225,
+      "pct_above_80": 0.0625
+    }
+  }
+}

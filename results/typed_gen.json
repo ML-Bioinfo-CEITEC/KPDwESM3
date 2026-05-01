@@ -1,0 +1,616 @@
+{
+  "wall_time_s": 765.6,
+  "results": [
+    {
+      "attempt": 41264,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.8966,
+      "any_knot_prob": 0.8966,
+      "topology": {
+        "3_1": 0.8667,
+        "0_1": 0.1
+      },
+      "dominant_type": "3_1",
+      "hit_target": true,
+      "time_s": 122.8,
+      "error": null
+    },
+    {
+      "attempt": 2185,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.7692,
+      "any_knot_prob": 0.9615,
+      "topology": {
+        "3_1": 0.6667,
+        "5_2": 0.1667,
+        "0_1": 0.0333
+      },
+      "dominant_type": "3_1",
+      "hit_target": true,
+      "time_s": 125.7,
+      "error": null
+    },
+    {
+      "attempt": 42331,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.6071,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "3_1": 0.5667,
+        "TMC": 0.2667,
+        "5_2": 0.1
+      },
+      "dominant_type": "3_1",
+      "hit_target": true,
+      "time_s": 127.0,
+      "error": null
+    },
+    {
+      "attempt": 3252,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.96,
+      "any_knot_prob": 0.96,
+      "topology": {
+        "3_1": 0.8,
+        "0_1": 0.0333
+      },
+      "dominant_type": "3_1",
+      "hit_target": true,
+      "time_s": 234.1,
+      "error": null
+    },
+    {
+      "attempt": 29709,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.6667,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "3_1#3_1": 0.1667,
+        "3_1": 0.6,
+        "TMC": 0.1333
+      },
+      "dominant_type": "3_1",
+      "hit_target": true,
+      "time_s": 162.3,
+      "error": null
+    },
+    {
+      "attempt": 4319,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.8966,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "3_1": 0.8667,
+        "TMC": 0.1
+      },
+      "dominant_type": "3_1",
+      "hit_target": true,
+      "time_s": 123.4,
+      "error": null
+    },
+    {
+      "attempt": 30776,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.1034,
+      "any_knot_prob": 0.1034,
+      "topology": {
+        "0_1": 0.8667,
+        "3_1": 0.1
+      },
+      "dominant_type": "0_1",
+      "hit_target": false,
+      "time_s": 154.4,
+      "error": null
+    },
+    {
+      "attempt": 5386,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.6,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "TMC": 0.1,
+        "3_1": 0.5,
+        "5_2": 0.2333
+      },
+      "dominant_type": "3_1",
+      "hit_target": true,
+      "time_s": 207.5,
+      "error": null
+    },
+    {
+      "attempt": 31843,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.9167,
+      "any_knot_prob": 0.9167,
+      "topology": {
+        "3_1": 0.7333,
+        "0_1": 0.0667
+      },
+      "dominant_type": "3_1",
+      "hit_target": true,
+      "time_s": 199.2,
+      "error": null
+    },
+    {
+      "attempt": 6453,
+      "target_type": "3_1",
+      "length": 300,
+      "target_prob": 0.4828,
+      "any_knot_prob": 0.4828,
+      "topology": {
+        "0_1": 0.5,
+        "3_1": 0.4667
+      },
+      "dominant_type": "0_1",
+      "hit_target": true,
+      "time_s": 198.7,
+      "error": null
+    },
+    {
+      "attempt": 9716,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "5_1": 0.7333,
+        "TMC": 0.1333
+      },
+      "dominant_type": "5_1",
+      "hit_target": false,
+      "time_s": 121.4,
+      "error": null
+    },
+    {
+      "attempt": 49862,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 0.9259,
+      "topology": {
+        "3_1": 0.6,
+        "TMC": 0.2333,
+        "0_1": 0.0667
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 121.2,
+      "error": null
+    },
+    {
+      "attempt": 10783,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.2,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "4_1": 0.2,
+        "TMC": 0.8
+      },
+      "dominant_type": "TMC",
+      "hit_target": false,
+      "time_s": 121.4,
+      "error": null
+    },
+    {
+      "attempt": 50929,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 0.8966,
+      "topology": {
+        "0_1": 0.1,
+        "3_1": 0.8667
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 119.3,
+      "error": null
+    },
+    {
+      "attempt": 11850,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.6897,
+      "any_knot_prob": 0.9655,
+      "topology": {
+        "4_1": 0.6667,
+        "TMC": 0.2667,
+        "0_1": 0.0333
+      },
+      "dominant_type": "4_1",
+      "hit_target": true,
+      "time_s": 131.6,
+      "error": null
+    },
+    {
+      "attempt": 38307,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "3_1": 0.9667
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 155.9,
+      "error": null
+    },
+    {
+      "attempt": 12917,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "3_1": 0.5333,
+        "TMC": 0.3333,
+        "4_1#3_1": 0.1
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 199.6,
+      "error": null
+    },
+    {
+      "attempt": 39374,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 0.4615,
+      "topology": {
+        "0_1": 0.4667,
+        "TMC": 0.4
+      },
+      "dominant_type": "0_1",
+      "hit_target": false,
+      "time_s": 177.3,
+      "error": null
+    },
+    {
+      "attempt": 13984,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.7,
+      "any_knot_prob": 0.9667,
+      "topology": {
+        "TMC": 0.2667,
+        "4_1": 0.7,
+        "0_1": 0.0333
+      },
+      "dominant_type": "4_1",
+      "hit_target": true,
+      "time_s": 202.1,
+      "error": null
+    },
+    {
+      "attempt": 40441,
+      "target_type": "4_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 0.9643,
+      "topology": {
+        "3_1": 0.9,
+        "0_1": 0.0333
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 120.7,
+      "error": null
+    },
+    {
+      "attempt": 54407,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.1071,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "3_1": 0.8333,
+        "5_1": 0.1
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 238.4,
+      "error": null
+    },
+    {
+      "attempt": 29017,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 0.1333,
+      "topology": {
+        "0_1": 0.8667,
+        "3_1": 0.1333
+      },
+      "dominant_type": "0_1",
+      "hit_target": false,
+      "time_s": 119.6,
+      "error": null
+    },
+    {
+      "attempt": 55474,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.2963,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "TMC": 0.5333,
+        "5_1": 0.2667,
+        "7_1": 0.1
+      },
+      "dominant_type": "TMC",
+      "hit_target": false,
+      "time_s": 124.3,
+      "error": null
+    },
+    {
+      "attempt": 16395,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 0.2857,
+      "topology": {
+        "0_1": 0.6667,
+        "4_1": 0.2667
+      },
+      "dominant_type": "0_1",
+      "hit_target": false,
+      "time_s": 118.4,
+      "error": null
+    },
+    {
+      "attempt": 56541,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.75,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "5_1": 0.6,
+        "TMC": 0.2
+      },
+      "dominant_type": "5_1",
+      "hit_target": true,
+      "time_s": 128.7,
+      "error": null
+    },
+    {
+      "attempt": 17462,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.8667,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "5_1": 0.8667,
+        "TMC": 0.1333
+      },
+      "dominant_type": "5_1",
+      "hit_target": true,
+      "time_s": 159.1,
+      "error": null
+    },
+    {
+      "attempt": 57608,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "TMC": 0.9,
+        "4_1#3_1": 0.1
+      },
+      "dominant_type": "TMC",
+      "hit_target": false,
+      "time_s": 118.5,
+      "error": null
+    },
+    {
+      "attempt": 18529,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "TMC": 0.4667,
+        "4_1": 0.5
+      },
+      "dominant_type": "4_1",
+      "hit_target": false,
+      "time_s": 121.9,
+      "error": null
+    },
+    {
+      "attempt": 58675,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 1.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "5_1": 0.9333
+      },
+      "dominant_type": "5_1",
+      "hit_target": true,
+      "time_s": 121.0,
+      "error": null
+    },
+    {
+      "attempt": 19596,
+      "target_type": "5_1",
+      "length": 300,
+      "target_prob": 0.1481,
+      "any_knot_prob": 0.7407,
+      "topology": {
+        "3_1": 0.5333,
+        "5_1": 0.1333,
+        "0_1": 0.2333
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 124.7,
+      "error": null
+    },
+    {
+      "attempt": 22761,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 0.9643,
+      "topology": {
+        "0_1": 0.0333,
+        "TMC": 0.4,
+        "3_1": 0.5
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 180.4,
+      "error": null
+    },
+    {
+      "attempt": 49218,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "TMC": 0.5,
+        "3_1": 0.4,
+        "3_1#3_1": 0.1
+      },
+      "dominant_type": "TMC",
+      "hit_target": false,
+      "time_s": 220.2,
+      "error": null
+    },
+    {
+      "attempt": 23828,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.8621,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "5_2": 0.8333,
+        "TMC": 0.1333
+      },
+      "dominant_type": "5_2",
+      "hit_target": true,
+      "time_s": 124.1,
+      "error": null
+    },
+    {
+      "attempt": 50285,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "3_1": 0.7,
+        "TMC": 0.1,
+        "5_1": 0.1
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 194.4,
+      "error": null
+    },
+    {
+      "attempt": 11206,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "6_1": 0.6333,
+        "TMC": 0.3667
+      },
+      "dominant_type": "6_1",
+      "hit_target": false,
+      "time_s": 263.6,
+      "error": null
+    },
+    {
+      "attempt": 51352,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "3_1": 0.8333
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 162.5,
+      "error": null
+    },
+    {
+      "attempt": 12273,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "TMC": 0.1667,
+        "3_1#3_1": 0.1,
+        "3_1": 0.7
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 126.1,
+      "error": null
+    },
+    {
+      "attempt": 52419,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.7931,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "5_2": 0.7667,
+        "TMC": 0.2
+      },
+      "dominant_type": "5_2",
+      "hit_target": true,
+      "time_s": 122.5,
+      "error": null
+    },
+    {
+      "attempt": 13340,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 0.9259,
+      "topology": {
+        "3_1": 0.7,
+        "0_1": 0.0667,
+        "3_1#3_1": 0.1333
+      },
+      "dominant_type": "3_1",
+      "hit_target": false,
+      "time_s": 126.5,
+      "error": null
+    },
+    {
+      "attempt": 53486,
+      "target_type": "5_2",
+      "length": 300,
+      "target_prob": 0.0,
+      "any_knot_prob": 1.0,
+      "topology": {
+        "TMC": 1.0
+      },
+      "dominant_type": "TMC",
+      "hit_target": false,
+      "time_s": 122.9,
+      "error": null
+    }
+  ]
+}

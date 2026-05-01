@@ -1,0 +1,504 @@
+{
+  "wall_time_s": 6323.5,
+  "n_success": 7,
+  "n_valid": 14,
+  "rate": 0.5,
+  "results": [
+    {
+      "protein_id": "R_A0A7L2K6G6",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB3ZAMQ2JK1S4H7B6J2AA:1775326564332-0 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A3S4K813",
+      "seq_len": 108,
+      "any_success": false,
+      "best_config": "gentle_3pct",
+      "best_score": 0.0,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 230.3
+        },
+        "orig_5pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 160.1
+        },
+        "medium_10pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 223.2
+        },
+        "aggro_20pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 68.0
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A376LAK7",
+      "seq_len": 113,
+      "any_success": false,
+      "best_config": "aggro_20pct",
+      "best_score": 0.3077,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 302.3
+        },
+        "orig_5pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 207.5
+        },
+        "medium_10pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 300.5
+        },
+        "aggro_20pct": {
+          "success": false,
+          "best_score": 0.3077,
+          "time_s": 97.8
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A4V4LCF3",
+      "seq_len": 120,
+      "any_success": true,
+      "best_config": "gentle_3pct",
+      "best_score": 0.9888,
+      "config_results": {
+        "gentle_3pct": {
+          "success": true,
+          "best_score": 0.9888,
+          "time_s": 284.1
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A3M9ZJG5",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45A09YZ15JQG4ZRT67E:1775326564550-3 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A1G5PIM4",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45AA7408XB1F2FVH2JX:1775326564550-4 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A382S5N3",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45AS6AQN0K0SV7XCK1T:1775326564550-5 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A3Q9FQZ7",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45A9SG5SK8GMEWY8GJC:1775326564550-6 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A4W6FRQ0",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45A3WKHF87H15CD9EC2:1775326564550-7 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A6P0WNR3",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45A2QJHZHXXSTHEDKQA:1775326564550-8 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A1Z4K776",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45BKX0VT5YBH9REDX9V:1775326564550-9 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A1B0DAA9",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45B1QA0CNKCMSG6J01R:1775326564550-10 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A6I7T9I3",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45BS2648W4DB7X4Y6QA:1775326564550-11 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A6V7KIQ1",
+      "seq_len": 139,
+      "any_success": true,
+      "best_config": "gentle_3pct",
+      "best_score": 1.0,
+      "config_results": {
+        "gentle_3pct": {
+          "success": true,
+          "best_score": 1.0,
+          "time_s": 168.6
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A524PI23",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45BYZDCEADRK1ANTY77:1775326564550-13 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A5M8NTX3",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45BSNN2E2JHTMQGNHQ9:1775326564550-14 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A351GFV7",
+      "seq_len": 117,
+      "any_success": false,
+      "best_config": "aggro_20pct",
+      "best_score": 0.4842,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.4674,
+          "time_s": 313.7
+        },
+        "orig_5pct": {
+          "success": false,
+          "best_score": 0.4783,
+          "time_s": 206.5
+        },
+        "medium_10pct": {
+          "success": false,
+          "best_score": 0.4255,
+          "time_s": 301.2
+        },
+        "aggro_20pct": {
+          "success": false,
+          "best_score": 0.4842,
+          "time_s": 104.7
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A2G5UAH8",
+      "seq_len": 174,
+      "any_success": true,
+      "best_config": "gentle_3pct",
+      "best_score": 0.9895,
+      "config_results": {
+        "gentle_3pct": {
+          "success": true,
+          "best_score": 0.9895,
+          "time_s": 224.1
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A7R9Z525",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45BVSA9DB4936DK24AE:1775326564550-17 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A1G8QRL6",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45CRE9WVJ9JXRHP53E9:1775326564550-18 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_I3N0L9",
+      "seq_len": 183,
+      "any_success": true,
+      "best_config": "orig_5pct",
+      "best_score": 0.9785,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 708.2
+        },
+        "orig_5pct": {
+          "success": true,
+          "best_score": 0.9785,
+          "time_s": 47.1
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A844MIU4",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45CVVWFRYQPWQYK7DFG:1775326564550-20 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A7X6UR43",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45CTVATVXXEZTMMC920:1775326564550-21 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A3N5FAW5",
+      "seq_len": 210,
+      "any_success": true,
+      "best_config": "gentle_3pct",
+      "best_score": 0.977,
+      "config_results": {
+        "gentle_3pct": {
+          "success": true,
+          "best_score": 0.977,
+          "time_s": 341.9
+        }
+      }
+    },
+    {
+      "protein_id": "R_X0W203",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45CAJ49Q1VRZAC9X9VM:1775326564550-23 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A1S3K8B4",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45CAEJKD7VZY9V4QSWF:1775326564550-24 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A1B6L6P5",
+      "seq_len": 170,
+      "any_success": true,
+      "best_config": "medium_10pct",
+      "best_score": 0.8958,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 466.0
+        },
+        "orig_5pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 308.7
+        },
+        "medium_10pct": {
+          "success": true,
+          "best_score": 0.8958,
+          "time_s": 318.2
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A5C6W5Q1",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45C2VJQP61FV8E81ZQA:1775326564550-26 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A072V0N7",
+      "seq_len": 223,
+      "any_success": true,
+      "best_config": "gentle_3pct",
+      "best_score": 0.9348,
+      "config_results": {
+        "gentle_3pct": {
+          "success": true,
+          "best_score": 0.9348,
+          "time_s": 91.0
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A382A7X2",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45D9Q71H4CYYE8HMY1A:1775326564550-28 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A844IWR2",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45D85BG48GJ3479FVTC:1775326564550-29 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A524KB20",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45D6DZBJYN2M929PGXZ:1775326564550-30 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A6L9KN65",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45DSMGM9YH0HSJV7CN2:1775326564550-31 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A7X6ZIZ7",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45D6DJHH2AKHF07KPXH:1775326564550-32 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A2T1M1G7",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45DFT8PXJA18B0BK1VF:1775326564550-33 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A7W1T1X9",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45DGS1TJ4WJVJ7B9Z4V:1775326564550-34 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_D2H1L1",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45DR99R8CGTHVVSDZ5P:1775326564550-35 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A3L9I5G0",
+      "seq_len": 89,
+      "any_success": false,
+      "best_config": "orig_5pct",
+      "best_score": 0.4945,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.3673,
+          "time_s": 334.2
+        },
+        "orig_5pct": {
+          "success": false,
+          "best_score": 0.4945,
+          "time_s": 217.4
+        },
+        "medium_10pct": {
+          "success": false,
+          "best_score": 0.4043,
+          "time_s": 317.4
+        },
+        "aggro_20pct": {
+          "success": false,
+          "best_score": 0.2828,
+          "time_s": 111.6
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A3B1C115",
+      "seq_len": 145,
+      "any_success": false,
+      "best_config": "gentle_3pct",
+      "best_score": 0.0,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 418.8
+        },
+        "orig_5pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 273.3
+        },
+        "medium_10pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 412.2
+        },
+        "aggro_20pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 76.2
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A7Y2ZH46",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45E5ZK3WXHMEP2HJBJR:1775326564550-38 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A5J6PQG0",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45E538PYZGSCY9F2YP1:1775326564550-39 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A2M7CP31",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45E8JSXHA0N69PMK59Z:1775326564550-40 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A147HYY0",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45EHQ7AQ94PRTHQDYSE:1775326564550-41 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A2V8RR72",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45ER2WDMXH0Y13ADQXR:1775326564550-42 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A831TIM2",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45EVQN4SBTZ6JTZYWB5:1775326564550-43 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A5J6NV24",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45EHD9ZC913KA5TPMSC:1775326564550-44 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A4Q3QAS3",
+      "seq_len": 141,
+      "any_success": false,
+      "best_config": "gentle_3pct",
+      "best_score": 0.0,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 404.3
+        },
+        "orig_5pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 264.6
+        },
+        "medium_10pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 401.0
+        },
+        "aggro_20pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 73.6
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A832Z9N4",
+      "seq_len": 138,
+      "any_success": false,
+      "best_config": "gentle_3pct",
+      "best_score": 0.0,
+      "config_results": {
+        "gentle_3pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 417.2
+        },
+        "orig_5pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 278.9
+        },
+        "medium_10pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 416.3
+        },
+        "aggro_20pct": {
+          "success": false,
+          "best_score": 0.0,
+          "time_s": 73.7
+        }
+      }
+    },
+    {
+      "protein_id": "R_A0A1I4RZ71",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45F0H86G0WE3QF1H09M:1775326564550-47 hit its timeout of 1200s"
+    },
+    {
+      "protein_id": "R_A0A0R4IXD2",
+      "any_success": false,
+      "error": "Task's current input in-01KNCVB45FNP69FQW3W8DRBNJN:1775326564550-48 hit its timeout of 1200s"
+    }
+  ]
+}

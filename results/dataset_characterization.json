@@ -1,0 +1,15 @@
+{
+  "total": 15000,
+  "real_knotted_count": 1000,
+  "real_unknotted_count": 4000,
+  "real_knotted_len": {
+    "mean": 399.0,
+    "median": 340.0,
+    "std": 195.7
+  },
+  "real_unknotted_len": {
+    "mean": 405.3,
+    "median": 339.0,
+    "std": 203.5
+  }
+}
