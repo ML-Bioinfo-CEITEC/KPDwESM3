@@ -14,7 +14,7 @@
 
 \author{
    Eva Marsalkova \\
-   CEITEC \& National Centre for Biomolecular Research\\
+   National Centre for Biomolecular Research \& CEITEC \\
    Masaryk University, Brno, Czech Republic 
   \and
   Petr Simecek\thanks{Corresponding author: \texttt{simecek@mail.muni.cz}} \\
@@ -118,9 +118,16 @@ Among the 70 proteins with resolved knot types (the remaining 19 exceeded the Al
 \label{fig:knot_types}
 \end{figure}
 
-We further tested knot-type-specific generation by modifying the scoring function to preferentially reward a particular topology. Targeting the trefoil was highly effective (9/10 hit the target), consistent with $3_1$ being the simplest and most common knot type. When the model generates a knot but misses the target, it naturally defaults to the most probable topology. More complex targets ($4_1$, $5_1$, $5_2$) were achieved in 20--30\% of attempts, with generation biased toward trefoils in the remaining cases (Supplementary Figure~S9). The success rate also depends on target protein length: at 100 residues only 20\% of attempts produced knots, rising to 90\% at 200 residues and 100\% at 350 or more (Supplementary Figure~S1), consistent with the observation that natural knotted proteins are typically 200--400 residues long.
+We further tested knot-type-specific generation by modifying the scoring function to preferentially reward a particular topology. Targeting the trefoil was highly effective (9/10 hit the target), consistent with $3_1$ being the simplest and most common knot type. When the model generates a knot but misses the target, it naturally defaults to the most probable topology. More complex targets ($4_1$, $5_1$, $5_2$) were achieved in 20--30\% of attempts, with generation biased toward trefoils in the remaining cases (Supplementary Figure~\ref{fig:typed_gen}). The success rate also depends on target protein length: at 100 residues only 20\% of attempts produced knots, rising to 90\% at 200 residues and 100\% at 350 or more (Figure~\ref{fig:length_gen}), consistent with the observation that natural knotted proteins are typically 200--400 residues long.
 
-A simple MLP classifier trained on mean-pooled ESM3 embeddings achieves 97.1\% accuracy in distinguishing knotted from unknotted proteins ($n_\text{val}=1000$; Supplementary Figure~S6), suggesting that ESM3's learned representations encode information relevant to topology even without explicit topological supervision.
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/fig_length_gen.pdf}
+\caption{Guided generation success rate as a function of target protein length ($n=10$ per length). Bars (left axis) show the fraction of attempts that produced a knot; the orange dashed line (right axis) shows the mean knot score. Generation is unreliable below 150 residues but saturates at near 100\% from 200 residues onward, consistent with the typical length range of natural knotted proteins.}
+\label{fig:length_gen}
+\end{figure}
+
+A simple MLP classifier trained on mean-pooled ESM3 embeddings achieves 97.1\% accuracy in distinguishing knotted from unknotted proteins ($n_\text{val}=1000$; Supplementary Figure~\ref{fig:umap}), suggesting that ESM3's learned representations encode information relevant to topology even without explicit topological supervision.
 
 \subsection{Knot Robustness and Sharp Threshold Behavior}
 
@@ -133,7 +140,7 @@ Our masking stability analysis ($n=250$ proteins, 10 masking levels, 8 trials ea
 \label{fig:masking_curve}
 \end{figure}
 
-The loss of topology appears abrupt rather than gradual: 68\% of proteins exhibit a single-step drop in knot probability exceeding 0.3 between consecutive masking levels (Supplementary Figure~S2). While the 10-percentage-point spacing of our masking grid limits our ability to distinguish a true discontinuity from a steep sigmoid, the behavior is consistent with a sharp threshold-like transition, suggesting a critical amount of sequence information is required to specify the topology.
+The loss of topology appears abrupt rather than gradual: 68\% of proteins exhibit a single-step drop in knot probability exceeding 0.3 between consecutive masking levels (Supplementary Figure~\ref{fig:transition}). While the 10-percentage-point spacing of our masking grid limits our ability to distinguish a true discontinuity from a steep sigmoid, the behavior is consistent with a sharp threshold-like transition, suggesting a critical amount of sequence information is required to specify the topology.
 
 \subsection{Structural Drift Precedes Topological Disruption}
 
@@ -142,7 +149,7 @@ The RMSD analysis ($n=80$; smaller than the masking analysis due to the addition
 \begin{figure}[t]
 \centering
 \includegraphics[width=0.9\textwidth]{figures/fig_rmsd_vs_knot.pdf}
-\caption{Structural drift (RMSD, red) accumulates steadily with masking, while knot topology (blue) persists until much higher masking levels. Sequence identity (green) declines monotonically. The gap between the curves suggests that topology is more robust than specific 3D arrangement.}
+\caption{Top: structural drift (median C$\alpha$ RMSD) accumulates steadily with masking, with shading showing the 25--75\% inter-quartile range across proteins. Bottom: knot probability (solid) persists until much higher masking levels, while sequence identity (dashed) declines monotonically. The decoupling between the two panels suggests that topology is more robust than specific 3D arrangement.}
 \label{fig:rmsd}
 \end{figure}
 
@@ -152,16 +159,16 @@ This decoupling suggests that topology is more robust than specific three-dimens
 
 One might worry that the model simply memorizes and retrieves knotted sequences from its training data rather than capturing nontrivial information about topology. Several lines of evidence argue against this interpretation.
 
-First, de novo generation starts from a fully masked sequence, so there is no input information to trigger retrieval. Second, the generated knotted proteins show no close sequence similarity to known knotted proteins (Figure~\ref{fig:novelty}): the maximum identity between any generated protein and any of the 1,000 known knotted proteins in the dataset is just 14.5\%, with a mean of 10.5\%, indistinguishable from the random baseline of 10.4\% (random unknotted proteins compared to the same knotted set). Not a single generated protein exceeds 20\% identity with any known knotted protein.
+First, de novo generation starts from a fully masked sequence, so there is no input information to trigger retrieval. Second, the generated knotted proteins show no close sequence similarity to known knotted proteins (Figure~\ref{fig:novelty}): the maximum identity between any generated protein and any of the 1,000 known knotted proteins in the dataset is just 14.5\%, with a mean of 11.6\%, indistinguishable from a random baseline of 12.5\% (random unknotted proteins compared to the same knotted set). Not a single generated protein exceeds 15\% identity with any known knotted protein.
 
 \begin{figure}[t]
 \centering
 \includegraphics[width=0.9\textwidth]{figures/fig_novelty.pdf}
-\caption{Maximum sequence identity of each generated knotted protein to its nearest known knotted protein (blue), compared to random unknotted proteins (red baseline). The distributions overlap completely, indicating that generated proteins are no more similar to known knotted proteins than random sequences are.}
+\caption{Maximum sequence identity of each generated knotted protein to its nearest known knotted protein (blue), compared to random unknotted proteins (orange baseline). Dotted vertical lines show the per-distribution means. The two distributions overlap, indicating that generated proteins are no more similar to known knotted proteins than random sequences are.}
 \label{fig:novelty}
 \end{figure}
 
-Third, at 50\% masking the regenerated sequences share only 73\% identity with the originals yet maintain 85\% knot probability (Supplementary Figure~S3). We note that low sequence identity does not by itself exclude structural similarity (two proteins can share very different sequences yet similar folds); however, the combination of novel sequence, novel generation context (all-mask input), and the ability to steer generation toward specific knot types via modified scoring functions collectively argues against simple template retrieval.
+Third, at 50\% masking the regenerated sequences share only 73\% identity with the originals yet maintain 85\% knot probability (Supplementary Figure~\ref{fig:identity}). We note that low sequence identity does not by itself exclude structural similarity (two proteins can share very different sequences yet similar folds); however, the combination of novel sequence, novel generation context (all-mask input), and the ability to steer generation toward specific knot types via modified scoring functions collectively argues against simple template retrieval.
 
 \subsection{Unknotted-to-Knotted Conversion}
 
@@ -199,7 +206,7 @@ Our results suggest that multimodal protein language models capture nontrivial i
 
 The sharp threshold behavior in knot stability is perhaps our most striking finding. Rather than a gradual degradation, most proteins show an abrupt loss of topology at a critical masking threshold. One interpretation is that topological information is distributed and partially redundant across the sequence: above a critical information threshold the model can reconstruct the knot; below it, the topology is rapidly lost. The decoupling between RMSD and topology, where structures diverge substantially in 3D space while maintaining the same knot type, further supports the view that topology is a more fundamental feature than specific atomic arrangement, consistent with the mathematical nature of topological invariants.
 
-These findings also have potential implications for biosecurity. Current practices of redacting portions of sensitive protein sequences assume that partial information is insufficient for reconstruction. Our results show that after masking 70\% of a sequence, modern generative models can still recover complex topological features with 85\% reliability. Targeted deletion of the knot core still allows reconstruction 66\% of the time from flanking context alone (Supplementary Table~S1). We emphasize several caveats: our experiments use random and block masking, which differs from real-world targeted redaction of specific functional regions; the threat model is not fully developed; and we do not claim that knotted proteins themselves pose biosecurity risks. Rather, the results suggest that the effectiveness of sequence redaction as a general safeguard deserves further scrutiny in the context of increasingly capable generative models.
+These findings also have potential implications for biosecurity. Current practices of redacting portions of sensitive protein sequences assume that partial information is insufficient for reconstruction. Our results show that after masking 70\% of a sequence, modern generative models can still recover complex topological features with 85\% reliability. Targeted deletion of the knot core still allows reconstruction 66\% of the time from flanking context alone (Supplementary Table~\ref{tab:targeted}). We emphasize several caveats: our experiments use random and block masking, which differs from real-world targeted redaction of specific functional regions; the threat model is not fully developed; and we do not claim that knotted proteins themselves pose biosecurity risks. Rather, the results suggest that the effectiveness of sequence redaction as a general safeguard deserves further scrutiny in the context of increasingly capable generative models.
 
 \paragraph{Limitations.} Our experiments use ESM3-SM (1.4B parameters), the smallest publicly available variant; larger models (7B, 98B) would likely show stronger capabilities. All topology detection is computational (Alexander polynomials via stochastic closure); we did not perform wet-lab validation of generated proteins, nor did we assess their physical plausibility beyond topology (e.g., energy minimization, pLDDT scores). Approximately 21\% of generated knotted proteins (19/89) had topologies too complex for the Alexander polynomial to resolve within the default crossing limit of 15; using HOMFLY-PT or Jones polynomials could potentially disambiguate these cases. The unknotted-to-knotted conversion rate (17\%) is modest, and the bimodal success pattern suggests fundamental limitations of iterative guided generation for topological transformation.
 
@@ -213,12 +220,12 @@ These findings also have potential implications for biosecurity. Current practic
 
 We have investigated the interaction between multimodal protein language models and topological complexity, using knotted proteins as a test case. Our key findings are:
 
-\begin{itemize}
+\begin{enumerate}
     \item ESM3-guided generation produces knotted proteins with an 89\% success rate and diverse topology, compared to $\sim$0.5\% for unguided approaches.
     \item Knot topology exhibits a sharp threshold-like behavior under sequence perturbation: on average 84\% of the sequence must be altered before the knot breaks.
     \item Structural drift (RMSD) precedes topological disruption, suggesting that topology is more robust than specific 3D arrangement.
-    \item Generated knotted proteins show no close sequence similarity to known knotted proteins (mean 10.5\%, indistinguishable from random), arguing against simple memorization.
-\end{itemize}
+    \item Generated knotted proteins show no close sequence similarity to known knotted proteins (mean 11.6\%, indistinguishable from random), arguing against simple memorization.
+\end{enumerate}
 
 These results are consistent with the view that protein language models capture nontrivial information related to topology. As such models continue to scale, understanding their topological capabilities becomes increasingly important, both for harnessing their potential in protein design and for anticipating challenges in biosafety governance.
 
@@ -247,29 +254,22 @@ The project was supported by the OPUS LAP program of the Czech Science Foundatio
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.85\textwidth]{figures/fig_length_gen.pdf}
-\caption{Guided generation success rate by target protein length ($n=10$ per length).}
-\label{fig:length_gen}
-\end{figure}
-
-\begin{figure}[h]
-\centering
 \includegraphics[width=0.9\textwidth]{figures/fig_transition_curves.pdf}
-\caption{Individual protein transition curves (blue, low opacity) overlaid with the population mean (red).}
+\caption{A subset of individual protein transition curves (gray, low opacity) overlaid with the population mean (blue) and the 25--75\% inter-quartile range (shaded). The shape of the population curve is dominated by a sharp transition rather than a gradual decline.}
 \label{fig:transition}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.9\textwidth]{figures/fig_identity_vs_knot.pdf}
-\caption{Per-protein sequence identity versus knot probability at different masking levels.}
+\caption{Per-protein sequence identity (after masking and regeneration) versus knot probability. Each point is one (protein, masking level) pair; color encodes the masking percentage.}
 \label{fig:identity}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.9\textwidth]{figures/fig_targeted_masking.pdf}
-\caption{Targeted masking of knot core versus non-core regions versus random masking.}
+\caption{Targeted masking of the knot core (orange) versus non-core regions (green), compared to the random masking baseline (blue). Error bars are standard error of the mean across $n=40$ proteins. Even at the maximum core-only masking (about 47\% of the entire sequence), knot probability stays above 0.65, while random masking of the same fraction drops below 0.35.}
 \label{fig:targeted}
 \end{figure}
 
@@ -308,21 +308,21 @@ Region masked & \% of total seq & Mean knot prob. \\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.9\textwidth]{figures/fig_sliding_window.pdf}
-\caption{Sliding window vulnerability profile ($n=40$, window size 50 residues).}
+\caption{Sliding-window vulnerability profile ($n=40$, window size 50 residues). The blue line shows the mean knot probability after masking a window centred at each normalized position, with the 25--75\% inter-quartile range shaded. The dashed vertical line marks the mean knot-core centre. The profile is essentially flat, indicating no single position along the sequence is uniquely critical for the knot.}
 \label{fig:sliding_window}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.85\textwidth]{figures/fig_breaking_histogram.pdf}
-\caption{Distribution of breaking points across 250 knotted proteins.}
+\caption{Distribution of breaking points (the smallest masking level at which knot probability drops below 0.5) across 250 knotted proteins. The dashed orange line marks the median (90\%), confirming that most proteins retain their knot until very high masking.}
 \label{fig:breaking_hist}
 \end{figure}
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.85\textwidth]{figures/fig_typed_gen.pdf}
-\caption{Knot-type-specific guided generation results.}
+\caption{Knot-type-specific guided generation. Blue bars show the rate at which the model generated any knot, orange bars the rate at which it generated the targeted topology specifically. Targeting the trefoil ($3_1$) is highly effective; more complex topologies are produced less reliably and the model often defaults to $3_1$ instead.}
 \label{fig:typed_gen}
 \end{figure}
 

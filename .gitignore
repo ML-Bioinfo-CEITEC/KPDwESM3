@@ -30,6 +30,14 @@ tex/*.log
 tex/*.bbl
 tex/*.blg
 
+# Alternative figure themes from src/restyle_figures.py — kept locally only.
+# Bold/Okabe-Ito is the published variant and lives in tex/figures/.
+tex/figures_calm/
+tex/figures_minimal/
+tex/figures_bold/
+tex/figures_original/
+tex/figures_compare.html
+
 # uv lock (large)
 uv.lock
 

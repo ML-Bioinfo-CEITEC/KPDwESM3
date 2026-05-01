@@ -34,7 +34,7 @@ All experiments run on [Modal](https://modal.com) serverless GPUs using the ESM3
 | `typed_gen.py` | Knot-type-specific guided generation (4 types × 10) |
 | `length_gen.py` | Length-dependent generation success (6 lengths × 10) |
 | `extract_embeddings.py` | Full embedding extraction for UMAP visualization |
-| `generate_figures.py` | Generate all paper figures from result JSONs |
+| `restyle_figures.py` | Generate all paper figures from result JSONs (3 selectable themes) |
 
 ## Setup
 
@@ -65,8 +65,11 @@ uv run modal run src/masking_experiment.py \
   --n-proteins 300 --n-trials 8 \
   --levels "10,20,30,40,50,60,70,80,85,90"
 
-# Generate all figures locally
-uv run python src/generate_figures.py
+# Generate all figures locally (Okabe-Ito colorblind-safe theme used in the paper)
+uv run python src/restyle_figures.py --theme bold
+
+# Or render all three themes side-by-side for comparison (calm / minimal / bold)
+uv run python src/restyle_figures.py
 ```
 
 Add `--detach` to keep jobs running if your terminal disconnects.
