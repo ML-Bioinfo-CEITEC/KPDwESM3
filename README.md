@@ -123,12 +123,13 @@ logs are intentionally excluded.
 ## Citation
 
 ```
-@inproceedings{simecek2025advancing,
-  title     = {Advancing Knotted Protein Design with ESM3: Guided Generation and Topological Insights},
-  author    = {Simecek, Petr and Marsalkova, Eva},
-  booktitle = {Proceedings of the ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences},
-  year      = {2025},
-  url       = {https://openreview.net/forum?id=gYUAJPJeWP}
+@article{marsalkova2026advancing,
+  title={Advancing Knotted Protein Design with ESM3: Guided Generation and Topological Insights},
+  author={Marsalkova, Eva and Simecek, Petr},
+  journal={bioRxiv},
+  pages={2026--05},
+  year={2026},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```
 
