@@ -1,0 +1,998 @@
+{
+  "schema_version": 1,
+  "description": "Compact public evidence summary for the Revision 2 structural validation set.",
+  "thresholds": {
+    "source_plddt": "> 0.50",
+    "post_relaxation_knot_score": "> 0.50",
+    "high_knot_score": "> 0.90",
+    "foldseek_numeric_strict_screen": {
+      "source_plddt": "> 0.60",
+      "post_relaxation_knot_score_100_closures": "> 0.90",
+      "evalue": "< 1e-5",
+      "query_coverage": "> 0.70",
+      "sequence_identity_percent": "< 35",
+      "qualifying_experimental_pdb_hit_required": true,
+      "topology_concordance_included": false
+    }
+  },
+  "counts": {
+    "distinct_candidates": 32,
+    "geometry_pass": 32,
+    "knot_score_above_0_90_100_closures": 24,
+    "numeric_strict_foldseek_screen_pass": 2,
+    "topology_concordant_experimental_matches": 1
+  },
+  "external_resources": {
+    "sequence_dataset": "https://huggingface.co/datasets/EvaKlimentova/Diffusion-all_knots",
+    "source_pdb_archive": "https://doi.org/10.5281/zenodo.21206269",
+    "candidate_02_knotprot": "https://knotprot.cent.uw.edu.pl/viewFS/2i6d/A/0/"
+  },
+  "candidates": [
+    {
+      "id": "candidate_01",
+      "length": 256,
+      "source": {
+        "plddt": 0.865615,
+        "ptm": 0.829889,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.989247311827957,
+        "topology_probabilities": {
+          "3_1": 0.47,
+          "5_2": 0.15,
+          "5_1": 0.15,
+          "TMC": 0.15,
+          "0_1": 0.01
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.6990402382536682,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": true,
+        "best_eligible_hit": {
+          "target": "AF-A0A7C6NK58-F1-model_v6 ABC transporter ATP-binding protein",
+          "database": "afdb50",
+          "evalue": 1.209e-14,
+          "query_coverage": 0.859375,
+          "sequence_identity_percent": 30.4
+        },
+        "best_eligible_experimental_pdb_hit": {
+          "target": "7wiw-assembly1.cif.gz_B Cryo-EM structure of Mycobacterium tuberculosis irtAB complexed with ATP in an occluded conformation",
+          "database": "pdb100",
+          "evalue": 5.493e-13,
+          "query_coverage": 0.93359375,
+          "sequence_identity_percent": 27.4
+        }
+      },
+      "post_relaxation_verification_500_closures": {
+        "knot_score": 0.9678800856531049,
+        "topology_probabilities": {
+          "5_2": 0.126,
+          "5_1": 0.17,
+          "3_1": 0.49,
+          "TMC": 0.118,
+          "0_1": 0.03
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "topology_concordance": {
+        "status": "discordant",
+        "generated_topology": "3_1",
+        "experimental_match": "7WIW chain B nucleotide-binding domain",
+        "experimental_topology": "0_1",
+        "evidence": "Topoly 500-closure audit of full 7WIW chain B",
+        "experimental_topology_probabilities": {
+          "0_1": 0.946
+        },
+        "interpretation": "Fold similarity does not independently support the generated knot."
+      }
+    },
+    {
+      "id": "candidate_02",
+      "length": 256,
+      "source": {
+        "plddt": 0.76809,
+        "ptm": 0.637371,
+        "knot_score": 0.964286
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9883720930232558,
+        "topology_probabilities": {
+          "3_1": 0.85,
+          "0_1": 0.01
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.2293609043196805,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": true,
+        "best_eligible_hit": {
+          "target": "AF-Q7W7I7-F1-model_v6 23S rRNA (guanosine-2'-O-)-methyltransferase RlmB",
+          "database": "afdb-swissprot",
+          "evalue": 6.152e-14,
+          "query_coverage": 0.8828125,
+          "sequence_identity_percent": 19.1
+        },
+        "best_eligible_experimental_pdb_hit": {
+          "target": "2i6d-assembly1.cif.gz_A The structure of a putative RNA methyltransferase of the TrmH family from Porphyromonas gingivalis.",
+          "database": "pdb100",
+          "evalue": 2.453e-11,
+          "query_coverage": 0.96484375,
+          "sequence_identity_percent": 25
+        }
+      },
+      "post_relaxation_verification_500_closures": {
+        "knot_score": 0.952808988764045,
+        "topology_probabilities": {
+          "3_1": 0.848,
+          "0_1": 0.042
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "topology_concordance": {
+        "status": "concordant",
+        "generated_topology": "3_1",
+        "experimental_match": "2I6D chain A TrmH/SpoU methyltransferase",
+        "experimental_topology": "3_1",
+        "evidence": "KnotProt 2.0",
+        "knot_core_residues": [
+          179,
+          221
+        ],
+        "url": "https://knotprot.cent.uw.edu.pl/viewFS/2i6d/A/0/"
+      }
+    },
+    {
+      "id": "candidate_03",
+      "length": 256,
+      "source": {
+        "plddt": 0.674002,
+        "ptm": 0.392225,
+        "knot_score": 0.857143
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9545454545454546,
+        "topology_probabilities": {
+          "5_2": 0.84,
+          "0_1": 0.04
+        },
+        "dominant_resolved_topology": "5_2"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 1.5716379612536202,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_04",
+      "length": 256,
+      "source": {
+        "plddt": 0.66688,
+        "ptm": 0.603731,
+        "knot_score": 0.916667
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9375,
+        "topology_probabilities": {
+          "3_1": 0.9,
+          "0_1": 0.06
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.7387907827117075,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_05",
+      "length": 256,
+      "source": {
+        "plddt": 0.643224,
+        "ptm": 0.575792,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "5_2": 0.92
+        },
+        "dominant_resolved_topology": "5_2"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.9846444917552781,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_06",
+      "length": 256,
+      "source": {
+        "plddt": 0.634181,
+        "ptm": 0.488256,
+        "knot_score": 0.851852
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.8390804597701149,
+        "topology_probabilities": {
+          "4_1": 0.73,
+          "0_1": 0.14
+        },
+        "dominant_resolved_topology": "4_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.579625808062419,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_07",
+      "length": 256,
+      "source": {
+        "plddt": 0.619682,
+        "ptm": 0.519208,
+        "knot_score": 0.892857
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.8795180722891566,
+        "topology_probabilities": {
+          "0_1": 0.1,
+          "3_1": 0.73
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.7061651121278254,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_08",
+      "length": 256,
+      "source": {
+        "plddt": 0.614009,
+        "ptm": 0.594035,
+        "knot_score": 0.978723
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.98989898989899,
+        "topology_probabilities": {
+          "3_1": 0.98,
+          "0_1": 0.01
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 2.0497236825164675,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_09",
+      "length": 256,
+      "source": {
+        "plddt": 0.613212,
+        "ptm": 0.536856,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "4_1": 0.93
+        },
+        "dominant_resolved_topology": "4_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 200.0,
+        "ca_rmsd_angstrom": 1.7844183892526768,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_10",
+      "length": 256,
+      "source": {
+        "plddt": 0.598682,
+        "ptm": 0.571395,
+        "knot_score": 0.978261
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.956989247311828,
+        "topology_probabilities": {
+          "4_1": 0.89,
+          "0_1": 0.04
+        },
+        "dominant_resolved_topology": "4_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 200.0,
+        "ca_rmsd_angstrom": 1.858425444589111,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_11",
+      "length": 256,
+      "source": {
+        "plddt": 0.59422,
+        "ptm": 0.29596,
+        "knot_score": 0.833333
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.7171717171717171,
+        "topology_probabilities": {
+          "3_1": 0.71,
+          "0_1": 0.28
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 200.0,
+        "ca_rmsd_angstrom": 1.6008257713952974,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_12",
+      "length": 256,
+      "source": {
+        "plddt": 0.57642,
+        "ptm": 0.516726,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.956989247311828,
+        "topology_probabilities": {
+          "3_1": 0.89,
+          "0_1": 0.04
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 2.2064682873139208,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_13",
+      "length": 256,
+      "source": {
+        "plddt": 0.565745,
+        "ptm": 0.331565,
+        "knot_score": 0.875
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9545454545454546,
+        "topology_probabilities": {
+          "3_1": 0.84,
+          "0_1": 0.04
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.8258576025192625,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_14",
+      "length": 256,
+      "source": {
+        "plddt": 0.562041,
+        "ptm": 0.495736,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9690721649484536,
+        "topology_probabilities": {
+          "3_1": 0.94,
+          "0_1": 0.03
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 2.1168023489919525,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_15",
+      "length": 256,
+      "source": {
+        "plddt": 0.557446,
+        "ptm": 0.410998,
+        "knot_score": 0.965517
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "3_1": 0.95
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 200.0,
+        "ca_rmsd_angstrom": 1.7584155488829745,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_16",
+      "length": 256,
+      "source": {
+        "plddt": 0.555844,
+        "ptm": 0.451792,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "3_1#3_1": 0.61,
+          "TMC": 0.15,
+          "3_1": 0.17
+        },
+        "dominant_resolved_topology": "3_1#3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.9404858798019373,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_17",
+      "length": 256,
+      "source": {
+        "plddt": 0.547402,
+        "ptm": 0.465589,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "TMC": 0.99
+        },
+        "dominant_resolved_topology": "unresolved"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 200.0,
+        "ca_rmsd_angstrom": 1.9212652202827387,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_18",
+      "length": 256,
+      "source": {
+        "plddt": 0.539534,
+        "ptm": 0.440151,
+        "knot_score": 0.813953
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.8902439024390244,
+        "topology_probabilities": {
+          "4_1": 0.63,
+          "0_1": 0.09,
+          "TMC": 0.1
+        },
+        "dominant_resolved_topology": "4_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 2.3188243783782294,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_19",
+      "length": 256,
+      "source": {
+        "plddt": 0.539498,
+        "ptm": 0.387111,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "5_2": 0.88
+        },
+        "dominant_resolved_topology": "5_2"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 2.030988049116603,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_20",
+      "length": 256,
+      "source": {
+        "plddt": 0.53946,
+        "ptm": 0.295215,
+        "knot_score": 0.964286
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9263157894736842,
+        "topology_probabilities": {
+          "3_1": 0.88,
+          "0_1": 0.07
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 1.9291443820944822,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_21",
+      "length": 256,
+      "source": {
+        "plddt": 0.530206,
+        "ptm": 0.252982,
+        "knot_score": 0.793103
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.7755102040816326,
+        "topology_probabilities": {
+          "3_1": 0.76,
+          "0_1": 0.22
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 2.1796714106308652,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_22",
+      "length": 256,
+      "source": {
+        "plddt": 0.530005,
+        "ptm": 0.337035,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "3_1": 0.94
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.7187736668024602,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_23",
+      "length": 256,
+      "source": {
+        "plddt": 0.528937,
+        "ptm": 0.437503,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9381443298969072,
+        "topology_probabilities": {
+          "TMC": 0.91,
+          "0_1": 0.06
+        },
+        "dominant_resolved_topology": "unresolved"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 200.0,
+        "ca_rmsd_angstrom": 2.3762211906614144,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_24",
+      "length": 256,
+      "source": {
+        "plddt": 0.528729,
+        "ptm": 0.271481,
+        "knot_score": 0.666667
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.8172043010752688,
+        "topology_probabilities": {
+          "5_2": 0.18,
+          "3_1": 0.48,
+          "5_1": 0.1,
+          "0_1": 0.17
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.999434123196915,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_25",
+      "length": 256,
+      "source": {
+        "plddt": 0.524347,
+        "ptm": 0.393791,
+        "knot_score": 0.958333
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9887640449438202,
+        "topology_probabilities": {
+          "3_1": 0.88,
+          "0_1": 0.01
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 2.0099042533104226,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_26",
+      "length": 256,
+      "source": {
+        "plddt": 0.521865,
+        "ptm": 0.341589,
+        "knot_score": 0.962963
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.9655172413793104,
+        "topology_probabilities": {
+          "3_1": 0.84,
+          "0_1": 0.03
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 2.0699204335128445,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_27",
+      "length": 256,
+      "source": {
+        "plddt": 0.514854,
+        "ptm": 0.389388,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "6_1": 0.83,
+          "TMC": 0.17
+        },
+        "dominant_resolved_topology": "6_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 200.0,
+        "ca_rmsd_angstrom": 2.307489364656345,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_28",
+      "length": 256,
+      "source": {
+        "plddt": 0.510706,
+        "ptm": 0.370415,
+        "knot_score": 1.0
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.989247311827957,
+        "topology_probabilities": {
+          "TMC": 0.78,
+          "3_1": 0.14,
+          "0_1": 0.01
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 2.4258613012055146,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_29",
+      "length": 256,
+      "source": {
+        "plddt": 0.510647,
+        "ptm": 0.412144,
+        "knot_score": 0.714286
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "3_1#3_1": 0.23,
+          "TMC": 0.39,
+          "3_1": 0.29
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 200.0,
+        "ca_rmsd_angstrom": 2.3374044820459274,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_30",
+      "length": 256,
+      "source": {
+        "plddt": 0.509916,
+        "ptm": 0.348534,
+        "knot_score": 0.851852
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.8045977011494253,
+        "topology_probabilities": {
+          "3_1": 0.6,
+          "0_1": 0.17,
+          "5_1": 0.1
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 1.7932259638954184,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_31",
+      "length": 256,
+      "source": {
+        "plddt": 0.505764,
+        "ptm": 0.289759,
+        "knot_score": 0.821429
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 0.7333333333333334,
+        "topology_probabilities": {
+          "3_1": 0.66,
+          "0_1": 0.24
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 10.0,
+        "ca_rmsd_angstrom": 2.1608367096947854,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    },
+    {
+      "id": "candidate_32",
+      "length": 256,
+      "source": {
+        "plddt": 0.503533,
+        "ptm": 0.304801,
+        "knot_score": 0.923077
+      },
+      "post_relaxation_screening_100_closures": {
+        "knot_score": 1.0,
+        "topology_probabilities": {
+          "3_1": 0.73,
+          "TMC": 0.14
+        },
+        "dominant_resolved_topology": "3_1"
+      },
+      "minimization": {
+        "ca_restraint_kj_mol_nm2": 50.0,
+        "ca_rmsd_angstrom": 2.267332472016754,
+        "geometry_pass": true,
+        "severe_backbone_clashes_lt_1_7": 0
+      },
+      "foldseek": {
+        "numeric_strict_screen_pass": false,
+        "best_eligible_hit": null,
+        "best_eligible_experimental_pdb_hit": null
+      }
+    }
+  ]
+}

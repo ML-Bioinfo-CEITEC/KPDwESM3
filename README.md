@@ -8,10 +8,7 @@ We investigate how multimodal protein language models interact with topological 
 
 ```
 ├── src/                    # Experiment scripts (Modal GPU compute)
-├── tex/                    # Paper LaTeX source and figures
-├── results/                # Experiment outputs (JSON)
-├── notes/                  # Working notes and analysis
-└── old_codes/              # Original Jupyter notebooks
+└── results/                # Experiment outputs and R2 candidate structures
 ```
 
 ## Experiment Scripts (`src/`)
@@ -34,6 +31,11 @@ All experiments run on [Modal](https://modal.com) serverless GPUs using the ESM3
 | `length_gen.py` | Length-dependent generation success (6 lengths × 10) |
 | `extract_embeddings.py` | Full embedding extraction for UMAP visualization |
 | `restyle_figures.py` | Generate all paper figures from result JSONs (3 selectable themes) |
+| `overnight_candidate_search.py` | Confidence/topology generation and geometry QC |
+| `high_confidence_seed_conversion.py` | Iterative conversion of high-confidence generated seeds |
+| `relax_knot_candidates.py` | PDBFixer/OpenMM restrained minimization |
+| `foldseek_batch_api.py` | Rate-limited Foldseek API screening |
+| `freeze_r2_evidence.py` | Freeze exact Candidate 1/2 R2 metrics |
 
 ## Setup
 
@@ -83,6 +85,29 @@ Add `--detach` to keep jobs running if your terminal disconnects.
 | Embedding classifier | 5000 | 97.1% accuracy |
 | Max seq identity to known | 89 | 14.5% (random baseline: 12.5%) |
 | Unknotted-to-knotted | 99 | 17% (95% CI: 10–26%) |
+| Expanded plausibility screen | 32 | 2 numerical Foldseek/PDB passes; 1 topology-concordant match |
+
+## Revision 2 structural validation
+
+The minimal public R2 package is in
+[`results/r2_candidates/`](results/r2_candidates/). It contains:
+
+- 32 restrained-minimized PDB structures;
+- the corresponding FASTA sequences and candidate-level metrics; and
+- a compact validation summary with Foldseek/PDB evidence and independent
+  500-closure checks for Candidates 1 and 2.
+
+All 32 candidates pass the reported post-relaxation geometry checks, and 24
+have initial post-relaxation knot scores above 0.90. Candidate 2 is the primary
+topology-concordant example: its generated `3_1` topology agrees with the
+experimentally determined, `3_1`-knotted TrmH/SpoU structure 2I6D. Candidate 1
+is reported as topology-discordant because its 7WIW nucleotide-binding-domain
+match is unknotted.
+
+Only the five non-plotting scripts needed to document the R2 generation,
+minimization, Foldseek, and evidence-freezing workflow are included. Submission
+files, TeX revisions, raw API payloads, plotting outputs, and internal working
+logs are intentionally excluded.
 
 ## Dataset
 

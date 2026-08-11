@@ -39,9 +39,8 @@
         "max_extent": 51.881,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_pool/seed0_cfg3_m1.0_w2.0_t1_k50.0.pdb",
       "id": "candidate_01",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_01.pdb"
+      "pdb_path": "results/r2_candidates/candidate_01.pdb"
     },
     {
       "source_id": "near_guided_105_L256_w1.0_t1",
@@ -73,9 +72,8 @@
         "max_extent": 54.613,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_guided_105_L256_w1.0_t1_k50.0.pdb",
       "id": "candidate_02",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_02.pdb"
+      "pdb_path": "results/r2_candidates/candidate_02.pdb"
     },
     {
       "source_id": "near_existing_42_r0",
@@ -107,9 +105,8 @@
         "max_extent": 89.125,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_42_r0_k10.0.pdb",
       "id": "candidate_03",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_03.pdb"
+      "pdb_path": "results/r2_candidates/candidate_03.pdb"
     },
     {
       "source_id": "rep1_seed1_cfg1_m2.0_w1.0_t1",
@@ -141,9 +138,8 @@
         "max_extent": 77.682,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep1_seed1_cfg1_m2.0_w1.0_t1_k50.0.pdb",
       "id": "candidate_04",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_04.pdb"
+      "pdb_path": "results/r2_candidates/candidate_04.pdb"
     },
     {
       "source_id": "rep1_seed1_cfg7_m3.0_w2.0_t0",
@@ -174,9 +170,8 @@
         "max_extent": 72.621,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep1_seed1_cfg7_m3.0_w2.0_t0_k50.0.pdb",
       "id": "candidate_05",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_05.pdb"
+      "pdb_path": "results/r2_candidates/candidate_05.pdb"
     },
     {
       "source_id": "near_existing_28_r2",
@@ -208,9 +203,8 @@
         "max_extent": 63.88,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_28_r2_k50.0.pdb",
       "id": "candidate_06",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_06.pdb"
+      "pdb_path": "results/r2_candidates/candidate_06.pdb"
     },
     {
       "source_id": "near_existing_18_r1",
@@ -242,9 +236,8 @@
         "max_extent": 74.16,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_18_r1_k50.0.pdb",
       "id": "candidate_07",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_07.pdb"
+      "pdb_path": "results/r2_candidates/candidate_07.pdb"
     },
     {
       "source_id": "seed1_cfg7_m3.0_w2.0_t0",
@@ -276,9 +269,8 @@
         "max_extent": 73.373,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_pool/seed1_cfg7_m3.0_w2.0_t0_k50.0.pdb",
       "id": "candidate_08",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_08.pdb"
+      "pdb_path": "results/r2_candidates/candidate_08.pdb"
     },
     {
       "source_id": "rep2_seed1_cfg3_m1.0_w2.0_t1",
@@ -309,9 +301,8 @@
         "max_extent": 74.856,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep2_seed1_cfg3_m1.0_w2.0_t1_k200.0.pdb",
       "id": "candidate_09",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_09.pdb"
+      "pdb_path": "results/r2_candidates/candidate_09.pdb"
     },
     {
       "source_id": "rep1_seed1_cfg4_m2.0_w2.0_t1",
@@ -343,9 +334,8 @@
         "max_extent": 84.049,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep1_seed1_cfg4_m2.0_w2.0_t1_k200.0.pdb",
       "id": "candidate_10",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_10.pdb"
+      "pdb_path": "results/r2_candidates/candidate_10.pdb"
     },
     {
       "source_id": "near_existing_73_r2",
@@ -377,9 +367,8 @@
         "max_extent": 81.091,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool/near_existing_73_r2_k200.0.pdb",
       "id": "candidate_11",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_11.pdb"
+      "pdb_path": "results/r2_candidates/candidate_11.pdb"
     },
     {
       "source_id": "rep0_seed1_cfg2_m3.0_w1.0_t1",
@@ -411,9 +400,8 @@
         "max_extent": 52.929,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep0_seed1_cfg2_m3.0_w1.0_t1_k50.0.pdb",
       "id": "candidate_12",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_12.pdb"
+      "pdb_path": "results/r2_candidates/candidate_12.pdb"
     },
     {
       "source_id": "near_existing_72_r1",
@@ -445,9 +433,8 @@
         "max_extent": 84.089,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_72_r1_k50.0.pdb",
       "id": "candidate_13",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_13.pdb"
+      "pdb_path": "results/r2_candidates/candidate_13.pdb"
     },
     {
       "source_id": "seed1_cfg2_m3.0_w1.0_t1",
@@ -479,9 +466,8 @@
         "max_extent": 84.69,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_pool/seed1_cfg2_m3.0_w1.0_t1_k10.0.pdb",
       "id": "candidate_14",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_14.pdb"
+      "pdb_path": "results/r2_candidates/candidate_14.pdb"
     },
     {
       "source_id": "near_existing_40_r0",
@@ -512,9 +498,8 @@
         "max_extent": 90.276,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool/near_existing_40_r0_k200.0.pdb",
       "id": "candidate_15",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_15.pdb"
+      "pdb_path": "results/r2_candidates/candidate_15.pdb"
     },
     {
       "source_id": "near_existing_26_r2",
@@ -547,9 +532,8 @@
         "max_extent": 60.831,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_26_r2_k50.0.pdb",
       "id": "candidate_16",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_16.pdb"
+      "pdb_path": "results/r2_candidates/candidate_16.pdb"
     },
     {
       "source_id": "rep1_seed1_cfg3_m1.0_w2.0_t1",
@@ -580,9 +564,8 @@
         "max_extent": 69.904,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep1_seed1_cfg3_m1.0_w2.0_t1_k200.0.pdb",
       "id": "candidate_17",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_17.pdb"
+      "pdb_path": "results/r2_candidates/candidate_17.pdb"
     },
     {
       "source_id": "rep2_seed1_cfg0_m1.0_w1.0_t1",
@@ -615,9 +598,8 @@
         "max_extent": 54.009,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep2_seed1_cfg0_m1.0_w1.0_t1_k10.0.pdb",
       "id": "candidate_18",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_18.pdb"
+      "pdb_path": "results/r2_candidates/candidate_18.pdb"
     },
     {
       "source_id": "rep2_seed1_cfg6_m2.0_w1.0_t0",
@@ -648,9 +630,8 @@
         "max_extent": 74.057,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep2_seed1_cfg6_m2.0_w1.0_t0_k10.0.pdb",
       "id": "candidate_19",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_19.pdb"
+      "pdb_path": "results/r2_candidates/candidate_19.pdb"
     },
     {
       "source_id": "near_existing_30_r0",
@@ -682,9 +663,8 @@
         "max_extent": 84.208,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_30_r0_k10.0.pdb",
       "id": "candidate_20",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_20.pdb"
+      "pdb_path": "results/r2_candidates/candidate_20.pdb"
     },
     {
       "source_id": "near_existing_84_r0",
@@ -716,9 +696,8 @@
         "max_extent": 74.137,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_84_r0_k10.0.pdb",
       "id": "candidate_21",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_21.pdb"
+      "pdb_path": "results/r2_candidates/candidate_21.pdb"
     },
     {
       "source_id": "near_existing_38_r2",
@@ -749,9 +728,8 @@
         "max_extent": 95.954,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_38_r2_k50.0.pdb",
       "id": "candidate_22",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_22.pdb"
+      "pdb_path": "results/r2_candidates/candidate_22.pdb"
     },
     {
       "source_id": "near_existing_13_r2",
@@ -783,9 +761,8 @@
         "max_extent": 83.997,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool/near_existing_13_r2_k200.0.pdb",
       "id": "candidate_23",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_23.pdb"
+      "pdb_path": "results/r2_candidates/candidate_23.pdb"
     },
     {
       "source_id": "near_existing_43_r0",
@@ -819,9 +796,8 @@
         "max_extent": 91.224,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_43_r0_k50.0.pdb",
       "id": "candidate_24",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_24.pdb"
+      "pdb_path": "results/r2_candidates/candidate_24.pdb"
     },
     {
       "source_id": "rep0_seed1_cfg5_m3.0_w2.0_t1",
@@ -853,9 +829,8 @@
         "max_extent": 70.299,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_seed_extra/rep0_seed1_cfg5_m3.0_w2.0_t1_k10.0.pdb",
       "id": "candidate_25",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_25.pdb"
+      "pdb_path": "results/r2_candidates/candidate_25.pdb"
     },
     {
       "source_id": "near_existing_68_r1",
@@ -887,9 +862,8 @@
         "max_extent": 56.208,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_68_r1_k50.0.pdb",
       "id": "candidate_26",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_26.pdb"
+      "pdb_path": "results/r2_candidates/candidate_26.pdb"
     },
     {
       "source_id": "near_existing_16_r0",
@@ -921,9 +895,8 @@
         "max_extent": 92.935,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool/near_existing_16_r0_k200.0.pdb",
       "id": "candidate_27",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_27.pdb"
+      "pdb_path": "results/r2_candidates/candidate_27.pdb"
     },
     {
       "source_id": "near_existing_93_r0",
@@ -956,9 +929,8 @@
         "max_extent": 58.037,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_93_r0_k10.0.pdb",
       "id": "candidate_28",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_28.pdb"
+      "pdb_path": "results/r2_candidates/candidate_28.pdb"
     },
     {
       "source_id": "near_existing_77_r1",
@@ -991,9 +963,8 @@
         "max_extent": 56.703,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool/near_existing_77_r1_k200.0.pdb",
       "id": "candidate_29",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_29.pdb"
+      "pdb_path": "results/r2_candidates/candidate_29.pdb"
     },
     {
       "source_id": "near_existing_79_r2",
@@ -1026,9 +997,8 @@
         "max_extent": 60.425,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_79_r2_k50.0.pdb",
       "id": "candidate_30",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_30.pdb"
+      "pdb_path": "results/r2_candidates/candidate_30.pdb"
     },
     {
       "source_id": "near_existing_15_r0",
@@ -1060,9 +1030,8 @@
         "max_extent": 56.656,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_15_r0_k10.0.pdb",
       "id": "candidate_31",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_31.pdb"
+      "pdb_path": "results/r2_candidates/candidate_31.pdb"
     },
     {
       "source_id": "near_existing_2_r0",
@@ -1094,9 +1063,8 @@
         "max_extent": 71.586,
         "geometry_pass": true
       },
-      "source_pdb_path": "results/overnight_candidates/pdb_relaxation_pool_weak/near_existing_2_r0_k50.0.pdb",
       "id": "candidate_32",
-      "pdb_path": "results/overnight_candidates/expanded_candidates/candidate_32.pdb"
+      "pdb_path": "results/r2_candidates/candidate_32.pdb"
     }
   ]
 }
